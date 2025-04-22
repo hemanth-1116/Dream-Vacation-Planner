@@ -1,0 +1,25 @@
+.place-info-container {
+  max-width: 1100px;
+  margin: 90px auto 40px;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.place-info-container h1 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.place-info-container img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.place-info-container p {
+  font-size: 1.1rem;
+  color: #333;
+  line-height: 1.6;
+}

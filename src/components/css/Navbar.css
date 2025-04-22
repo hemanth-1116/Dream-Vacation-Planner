@@ -1,0 +1,69 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: transparent;
+  color: white;
+}
+
+.navbar a,
+.navbar button {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  backdrop-filter: blur(5px);
+  transition: background 0.3s ease;
+  margin: 0 10px; /* Added margin for slight gap between buttons */
+}
+
+.navbar a:hover,
+.navbar button:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.navbar a:hover {
+  color: #ffcc00;
+  transition: 0.3s;
+}
+
+.profile img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.nav-links span {
+  cursor: pointer;
+}
+
+.profile {
+  display: flex;
+  align-items: center; /* Align profile image and text/button properly */
+}
+
+.navbar .nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar .nav-links a {
+  margin: 0 15px; /* Added margin for spacing between navbar items */
+}
+.login-button{
+  margin-left: 100px;
+}
+.profile{
+  margin-right: 40px;
+}
