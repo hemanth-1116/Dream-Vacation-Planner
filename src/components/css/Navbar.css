@@ -1,69 +1,142 @@
 .navbar {
   position: fixed;
   top: 0;
-  left: 0;
   width: 100%;
-  z-index: 1000;
+  height: 70px;
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 15px 40px;
+  justify-content: space-between;
+  padding: 0 3rem;
+  z-index: 999;
   background: transparent;
-  color: white;
 }
 
-.navbar a,
-.navbar button {
-  background: rgba(255, 255, 255, 0.15);
-  color: white;
+.logo {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Common button style for nav buttons and login */
+.nav-btn {
   padding: 8px 16px;
+  background-color: #f7c04a;
   border: none;
-  border-radius: 6px;
+  border-radius: 20px;
+  font-weight: 600;
+  color: #000;
+  cursor: pointer;
+  margin: 0 0.5rem;
+  transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
   text-decoration: none;
-  backdrop-filter: blur(5px);
-  transition: background 0.3s ease;
-  margin: 0 10px; /* Added margin for slight gap between buttons */
+  display: inline-block;
 }
 
-.navbar a:hover,
-.navbar button:hover {
-  background: rgba(255, 255, 255, 0.3);
+.nav-btn:hover {
+  background-color: #ffd974;
+  transform: scale(1.05);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
-.navbar a:hover {
-  color: #ffcc00;
-  transition: 0.3s;
+.navbar-center {
+  display: flex;
+  align-items: center;
+  margin-left: -200px;
+  height: 80px;
+  padding-top: 0.5rem;
 }
 
-.profile img {
+.login-btn {
+  margin-right: 0;
+}
+
+.navbar-right {
+  position: relative; /* Important for dropdown positioning */
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-right: 60px;
+  margin-top: 30px;
+}
+
+.profile-wrapper {
   width: 40px;
   height: 40px;
+  overflow: hidden;
   border-radius: 50%;
-  object-fit: cover;
-  margin-right: 10px;
-}
-
-.nav-links span {
+  border: 2px solid #fff;
   cursor: pointer;
 }
 
-.profile {
-  display: flex;
-  align-items: center; /* Align profile image and text/button properly */
+.profile-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
-.navbar .nav-links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.profile-icon:hover {
+  box-shadow: 0 0 0 3px #f7c04a;
 }
 
-.navbar .nav-links a {
-  margin: 0 15px; /* Added margin for spacing between navbar items */
+/* Dropdown Menu */
+.dropdown-menu {
+  position: absolute;
+  top: 60px; /* Just below the navbar */
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  min-width: 160px;
+  padding: 10px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
 }
-.login-button{
-  margin-left: 100px;
+
+.dropdown-btn {
+  background: none;
+  border: none;
+  color: #333;
+  padding: 10px;
+  text-align: left;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.2s;
 }
-.profile{
-  margin-right: 40px;
+
+.dropdown-btn:hover {
+  background-color: #f7f7f7;
+}
+
+.dropdown-text {
+  font-weight: bold;
+  color: #444;
+  margin-bottom: 8px;
+}
+
+/* Scroll Indicator */
+.scroll-indicator {
+  position: absolute;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  color: #fff;
+  animation: bounce 1.5s infinite;
+  z-index: 1000;
+  pointer-events: none;
+  user-select: none;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateX(-50%) translateY(0);
+  }
+  50% {
+    transform: translateX(-50%) translateY(8px);
+  }
 }
