@@ -16,15 +16,12 @@ function Home() {
 
       <div className="overlay"></div>
 
-      {/* Navbar placed ABOVE */}
       <Navbar />
 
-      {/* Hero Content */}
       <div className="hero-content">
         <h1>Dream Vacation Planner</h1>
         <p>Find your next dream destination</p>
 
-        {/* ✅ Conditionally show Login button only if NOT logged in */}
         {!isLoggedIn && (
           <Link to="/login">
             <button className="login-btn">Login</button>

@@ -1,19 +1,19 @@
-const express = require('express');
-const mongoose = require('mongoose');
-const cors = require('cors');
-const authRoutes = require('./routes/auth');
+const express = require("express");
+const cors = require("cors");
+const path = require("path");
+const places = require(path.join(__dirname, "../public/data/places.json"));
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const port = 3000;
 
 app.use(cors());
-app.use(express.json());
-app.use('/api/auth', authRoutes);
 
-mongoose.connect('mongodb://localhost:27017/dreamvacation', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-}).then(() => {
-  console.log('MongoDB connected');
-  app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-}).catch((err) => console.error(err));
+app.get("/api/places", (req, res) => {
+  res.json({ places });
+});
+
+app.use(express.static(path.join(__dirname, "public")));
+
+app.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`);
+});

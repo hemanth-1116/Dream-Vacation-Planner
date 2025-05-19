@@ -1,0 +1,158 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.places-container {
+  max-width: 1300px;
+  width: 90%;
+  margin: 60px auto;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  animation: fadeIn 0.6s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.places-container h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 2.2rem;
+  color: #222;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.controls input {
+  padding: 12px 14px;
+  width: 230px;
+  border-radius: 8px;
+  border: 1px solid #bbb;
+  font-size: 16px;
+  outline: none;
+  transition: box-shadow 0.3s ease;
+}
+
+.controls input:focus {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.controls button {
+  padding: 12px 18px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s;
+}
+
+.controls button:hover {
+  background-color: #0056b3;
+  transform: scale(1.03);
+}
+
+.places-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 24px;
+}
+
+.place-card {
+  background: #fff;
+  border-radius: 15px;
+  padding: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.place-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  z-index: 2;
+}
+
+.place-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  transition: transform 0.3s ease;
+}
+
+.place-card:hover img {
+  transform: scale(1.03);
+}
+
+.place-card h3 {
+  font-size: 1.3rem;
+  color: #333;
+  margin: 5px 0;
+}
+
+.place-card p {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 4px 0;
+}
+
+.pagination {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.pagination button {
+  margin: 0 6px;
+  padding: 10px 14px;
+  border: none;
+  background-color: #e0e0e0;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 15px;
+  transition: background-color 0.3s ease, transform 0.2s;
+}
+
+.pagination button:hover {
+  background-color: #ccc;
+  transform: scale(1.05);
+}
+
+.pagination button.active {
+  background-color: #007bff;
+  color: white;
+}

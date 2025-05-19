@@ -1,0 +1,698 @@
+[
+  {
+    "placeName": "Taj Mahal",
+    "city": "Agra, Uttar Pradesh",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "rating": 4.9,
+    "imageURL": "https://i.postimg.cc/j2hPpDFz/tajMahal.jpg"
+  },
+  {
+    "placeName": "Gateway of India",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.922,
+    "longitude": 72.8347,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/sXrB3VSK/Gateway-to-India.jpg"
+  },
+  {
+    "placeName": "Charminar",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.3616,
+    "longitude": 78.4747,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/j5bPX4Lv/Charminar.jpg"
+  },
+  {
+    "placeName": "RamaKrishna Beach",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.7194,
+    "longitude": 83.2764,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/gkw7PdKf/rkBeach.jpg"
+  },
+  {
+    "placeName": "Jaipur Palace",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.926,
+    "longitude": 75.8235,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/h4Hg3ZSS/jaipur-palace.jpg"
+  },
+  {
+    "placeName": "Mysore Palace",
+    "city": "Mysore, Karnataka",
+    "latitude": 12.3051,
+    "longitude": 76.6551,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/RFW5gKy6/mysore-palace.jpg"
+  },
+  {
+    "placeName": "India Gate",
+    "city": "New Delhi, Delhi",
+    "latitude": 28.6129,
+    "longitude": 77.2295,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/d1gX40bJ/india-Gate.jpg"
+  },
+  {
+    "placeName": "Red Fort",
+    "city": "Delhi, Delhi",
+    "latitude": 28.6562,
+    "longitude": 77.241,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/DyxQTNzX/redFort.jpg"
+  },
+  {
+    "placeName": "Qutub Minar",
+    "city": "Delhi, Delhi",
+    "latitude": 28.5245,
+    "longitude": 77.1855,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/2j2LbZfp/qutub-Minar.jpg"
+  },
+  {
+    "placeName": "Golden Temple",
+    "city": "Amritsar, Punjab",
+    "latitude": 31.62,
+    "longitude": 74.8765,
+    "rating": 4.9,
+    "imageURL": "https://i.postimg.cc/Hk2kRGWq/Golden-Temple.jpg"
+  },
+  {
+    "placeName": "Hawa Mahal",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.9239,
+    "longitude": 75.8267,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/ZRP7FLxx/Hawa-Mahal.jpg"
+  },
+  {
+    "placeName": "Sun Temple",
+    "city": "Konark, Odisha",
+    "latitude": 19.8876,
+    "longitude": 86.0945,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/Sx8WMxrW/sun-Temple.jpg"
+  },
+  {
+    "placeName": "Jaisalmer Fort",
+    "city": "Jaisalmer, Rajasthan",
+    "latitude": 26.9124,
+    "longitude": 70.9128,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/BvBHm7Rb/jaisalmer.webp"
+  },
+  {
+    "placeName": "Elephanta Caves",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.9633,
+    "longitude": 72.931,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/NMNTc9sw-/1-elephanta-caves-mumbai-maharashtra-attr-hero.jpg"
+  },
+  {
+    "placeName": "Victoria Memorial",
+    "city": "Kolkata, West Bengal",
+    "latitude": 22.5448,
+    "longitude": 88.3426,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/8zh6Cnp4/images.jpg"
+  },
+  {
+    "placeName": "Ajanta Caves",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.5519,
+    "longitude": 75.7033,
+    "rating": 4.9,
+    "imageURL": "https://i.postimg.cc/8c27pLxx/ajanta-caves-chhatrapati-sambhaji-nagar-maharashtra-attr-hero-1.jpg"
+  },
+  {
+    "placeName": "Meenakshi Temple",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.9195,
+    "longitude": 78.1193,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/MTXH1sSh/Meenakshi-Amman-Temple-Wikipedia.webp"
+  },
+  {
+    "placeName": "Ranthambore National Park",
+    "city": "Sawai Madhopur, Rajasthan",
+    "latitude": 26.0173,
+    "longitude": 76.5026,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/141zhsqQ/Ranthambore-National-Park.jpg"
+  },
+  {
+    "placeName": "Kaziranga National Park",
+    "city": "Golaghat, Assam",
+    "latitude": 26.5775,
+    "longitude": 93.1711,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/PrDKkj7F/Kaziranga-National-Park.jpg"
+  },
+  {
+    "placeName": "Ladakh Monasteries",
+    "city": "Leh, Ladakh",
+    "latitude": 34.1642,
+    "longitude": 77.5843,
+    "rating": 4.9,
+    "imageURL": "https://i.postimg.cc/fbRxknHs/ann-top-Ladakh-bu-V00-Q.jpg"
+  },
+  {
+    "placeName": "Ellora Caves",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.0268,
+    "longitude": 75.178,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/t4X6mGG6/images-1.jpg"
+  },
+  {
+    "placeName": "Sundarbans",
+    "city": "South 24 Parganas, West Bengal",
+    "latitude": 22.0333,
+    "longitude": 88.9333,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/2S2Zs9CK/images-2.jpg"
+  },
+  {
+    "placeName": "Kumarakom Backwaters",
+    "city": "Kumarakom, Kerala",
+    "latitude": 9.6173,
+    "longitude": 76.4316,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/Hx787pXq/kumarakom-625x470.avif"
+  },
+  {
+    "placeName": "Borra Caves",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.3156,
+    "longitude": 83.0109,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/JhWs3ywc/caves.webp"
+  },
+  {
+    "placeName": "INS Kurusura Submarine Museum",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.7175,
+    "longitude": 83.316,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/vTDT8f9M/images-3.jpg"
+  },
+  {
+    "placeName": "Kailasagiri Hill Park",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.7449,
+    "longitude": 83.3428,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/rsvV8bMC/images-4.jpg"
+  },
+  {
+    "placeName": "Rishikonda Beach",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.7515,
+    "longitude": 83.3784,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/YqW2XpzX/images-7-28.jpg"
+  },
+  {
+    "placeName": "Yarada Beach",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.6518,
+    "longitude": 83.2791,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/85YDH3JQ/12-VZ2-YARADABEACH.jpg"
+  },
+  {
+    "placeName": "Golconda Fort",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.3833,
+    "longitude": 78.4011,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/fTmtV7pT/weekend-yaari-golkonda.webp"
+  },
+  {
+    "placeName": "Hussain Sagar Lake",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.4239,
+    "longitude": 78.4738,
+    "rating": 4.4,
+    "imageURL": "https://i.postimg.cc/52mX34fh/Hussain-Sagar-Lake-Hyderabad-Location-timings-attractions-f.jpg"
+  },
+  {
+    "placeName": "Salar Jung Museum",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.3714,
+    "longitude": 78.4804,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/85xc5sb6/Salar-Jung-Museum-3.webp"
+  },
+  {
+    "placeName": "Ramoji Film City",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.2543,
+    "longitude": 78.6808,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/7h76TDBQ/Ramoji-Film-City-Signage-vb9v0p.avif"
+  },
+  {
+    "placeName": "Marine Drive",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.943,
+    "longitude": 72.8235,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/m2YkLL1P/9b4a40906dcab5edcb1025518b1f6f7b.jpg"
+  },
+  {
+    "placeName": "Bandra-Worli Sea Link",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.031,
+    "longitude": 72.817,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/4xXdnDpB/images.jpg"
+  },
+  {
+    "placeName": "Juhu Beach",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.0986,
+    "longitude": 72.826,
+    "rating": 4.3,
+    "imageURL": "https://i.postimg.cc/5294fwMr/juhu-beach-mumbai-maharashtra-2-musthead-hero.jpg"
+  },
+  {
+    "placeName": "Alleppey Backwaters",
+    "city": "Alappuzha, Kerala",
+    "latitude": 9.4981,
+    "longitude": 76.3388,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/W3Zj58Md/alleppey-backwater-tour.jpg"
+  },
+  {
+    "placeName": "Kovalam Beach",
+    "city": "Kovalam, Kerala",
+    "latitude": 8.4006,
+    "longitude": 76.9786,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/qvqPmQrp/images-1.jpg"
+  },
+  {
+    "placeName": "Periyar Wildlife Sanctuary",
+    "city": "Thekkady, Kerala",
+    "latitude": 9.4669,
+    "longitude": 77.1685,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/wTfPsJmZ/images-2.jpg"
+  },
+  {
+    "placeName": "Marina Beach",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.05,
+    "longitude": 80.2824,
+    "rating": 4.4,
+    "imageURL": "https://i.postimg.cc/X7zHvWM0/images-3.jpg"
+  },
+  {
+    "placeName": "Mahabalipuram Monuments",
+    "city": "Mahabalipuram, Tamil Nadu",
+    "latitude": 12.6208,
+    "longitude": 80.1934,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/rpSQgtD8/images-4.jpg"
+  },
+  {
+    "placeName": "Kanyakumari Beach",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.078,
+    "longitude": 77.552,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/Dy86HNSp/images-5.jpg"
+  },
+  {
+    "placeName": "Ooty Botanical Gardens",
+    "city": "Ooty, Tamil Nadu",
+    "latitude": 11.4154,
+    "longitude": 76.6952,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/GhVKCjYL/images-6.jpg"
+  },
+  {
+    "placeName": "Dolphin's Nose",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.6816,
+    "longitude": 83.2742,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/VNYCQS7s/dolphin-s-nose-vizag-tourism-one-day-city-tour.jpg"
+  },
+  {
+    "placeName": "Simhachalam Temple",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.7619,
+    "longitude": 83.2186,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/DZNJXx7m/images.jpg"
+  },
+  {
+    "placeName": "Thotlakonda Buddhist Complex",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.77,
+    "longitude": 83.3421,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/W4hJ1RPx/images-1.jpg"
+  },
+  {
+    "placeName": "Indira Gandhi Zoological Park",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.75,
+    "longitude": 83.3424,
+    "rating": 4.4,
+    "imageURL": "https://i.postimg.cc/hjmzV9vr/images-2.jpg"
+  },
+  {
+    "placeName": "Bheemili Beach",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.8901,
+    "longitude": 83.4523,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/Kcr4FcMR/1024px-Bheemili22092018-20191125174448.jpg"
+  },
+  {
+    "placeName": "Araku Valley",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.3333,
+    "longitude": 82.8667,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/76rY8jP3/images-3.jpg"
+  },
+  {
+    "placeName": "Vuda Park",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.7056,
+    "longitude": 83.3153,
+    "rating": 4.3,
+    "imageURL": "https://i.postimg.cc/qMvBTsr5/14ae3edc07f9b2bbd00640cb930c5eaf-1000x1000.jpg"
+  },
+  {
+    "placeName": "Kotturu Dhanadibbalu",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.3661,
+    "longitude": 83.895,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/VsD1DJtB/mqdefault.jpg"
+  },
+  {
+    "placeName": "Sangam Hills",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.3024,
+    "longitude": 83.9007,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/5NyJGfqc/kalingapatnam.jpg"
+  },
+  {
+    "placeName": "Baruva Beach",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.5366,
+    "longitude": 84.3654,
+    "rating": 4.4,
+    "imageURL": "https://i.postimg.cc/kXHCPLf2/view-of-the-beach-from.webp"
+  },
+  {
+    "placeName": "Kalingapatnam Beach",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.3284,
+    "longitude": 84.1273,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/y8SH1nbv/images-5.jpg"
+  },
+  {
+    "placeName": "Arasavilli Sun Temple",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.2702,
+    "longitude": 84.0091,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/g0FPn89d/Arasavilli-Sri-Suryanarayanamurty-Temple-of-Srikakulam-Andhra-Pradesh-3.jpg"
+  },
+  {
+    "placeName": "Ubbalamadugu Falls",
+    "city": "Tada, Tamil Nadu",
+    "latitude": 13.4356,
+    "longitude": 79.9478,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/gJ49S7xk/Tada-Falls-near-Sri-City.jpg"
+  },
+  {
+    "placeName": "Yercaud Hills",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.7753,
+    "longitude": 78.2093,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/XNHS9TMs/1715682873-shutterstock-2341377521.jpg"
+  },
+  {
+    "placeName": "Kolli Hills",
+    "city": "Namakkal, Tamil Nadu",
+    "latitude": 11.2977,
+    "longitude": 78.3251,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/7ZzF8h5R/31463-Kolli-hills-Kollimalai-seventy-hairpin-bends-Tamil-Nadu-850.jpg"
+  },
+  {
+    "placeName": "Pichavaram Mangrove Forest",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.4275,
+    "longitude": 79.7965,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/cHx2ncFq/images-6.jpg"
+  },
+  {
+    "placeName": "Vivekananda Rock Memorial",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.0772,
+    "longitude": 77.5536,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/hPzwTv1G/1-vivekananda-rock-memorial-kanyakumari-tamil-nadu-attr-hero.jpg"
+  },
+  {
+    "placeName": "Mudumalai National Park",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.576,
+    "longitude": 76.6376,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/N0gpJjmm/71d62d-0be7c0d1370043cd87e02a0d9a246db9-mv2.webp"
+  },
+  {
+    "placeName": "Thanjavur Brihadeeswara Temple",
+    "city": "Thanjavur, Tamil Nadu",
+    "latitude": 10.7821,
+    "longitude": 79.1319,
+    "rating": 4.9,
+    "imageURL": "https://i.postimg.cc/9M012gxf/thanjavur-brihadeeshwara.jpg"
+  },
+  {
+    "placeName": "Vedanthangal Bird Sanctuary",
+    "city": "Chengalpattu, Tamil Nadu",
+    "latitude": 12.5294,
+    "longitude": 79.8605,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/pXfSq73N/image.png"
+  },
+  {
+    "placeName": "Lepakshi Temple",
+    "city": "Anantapur, Andhra Pradesh",
+    "latitude": 13.8045,
+    "longitude": 77.6097,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/RZzhZv83/image.png"
+  },
+  {
+    "placeName": "Gandikota Fort",
+    "city": "Kadapa, Andhra Pradesh",
+    "latitude": 14.8152,
+    "longitude": 78.2846,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/DwdZWtkx/image.png"
+  },
+  {
+    "placeName": "Talakona Waterfalls",
+    "city": "Chittoor, Andhra Pradesh",
+    "latitude": 13.8211,
+    "longitude": 79.1527,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/6QWQCYBt/image.png"
+  },
+  {
+    "placeName": "Srisailam Dam",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 16.0816,
+    "longitude": 78.8888,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/Lsx8DLsf/image.png"
+  },
+  {
+    "placeName": "Belum Caves",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 15.0943,
+    "longitude": 78.1123,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/d1Dtx37f/image.png"
+  },
+  {
+    "placeName": "Pulicat Lake",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.6175,
+    "longitude": 80.1992,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/LX76KSL8/image.png"
+  },
+  {
+    "placeName": "Nagarjuna Sagar Dam",
+    "city": "Guntur, Andhra Pradesh",
+    "latitude": 16.5786,
+    "longitude": 79.3185,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/wMmx9rQc/image.png"
+  },
+  {
+    "placeName": "Mypadu Beach",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 14.4998,
+    "longitude": 80.1479,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/QVZ8Cq6L/image.png"
+  },
+  {
+    "placeName": "Venkatagiri Fort",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.9605,
+    "longitude": 79.5869,
+    "rating": 4.4,
+    "imageURL": "https://i.postimg.cc/BbKhz4c3/image.png"
+  },
+  {
+    "placeName": "Kanaka Durga Temple",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.5151,
+    "longitude": 80.6174,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/v8J2VxbZ/image.png"
+  },
+  {
+    "placeName": "Bhavani Island",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.5032,
+    "longitude": 80.6232,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/5N87q92q/image.png"
+  },
+  {
+    "placeName": "Rajahmundry Godavari Bridge",
+    "city": "Rajahmundry, Andhra Pradesh",
+    "latitude": 17.0046,
+    "longitude": 81.7771,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/MpD9NsRn/image.png"
+  },
+  {
+    "placeName": "Kumbakonam Temples",
+    "city": "Kumbakonam, Tamil Nadu",
+    "latitude": 10.9625,
+    "longitude": 79.3861,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/HLk6gQ4B/image.png"
+  },
+  {
+    "placeName": "Chidambaram Nataraja Temple",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.3995,
+    "longitude": 79.6937,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/0NXc2bVx/image.png"
+  },
+  {
+    "placeName": "Agasthiyar Falls",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.6652,
+    "longitude": 77.4628,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/50HpHbrz/image.png"
+  },
+  {
+    "placeName": "Srivilliputhur Andal Temple",
+    "city": "Srivilliputhur, Tamil Nadu",
+    "latitude": 9.5129,
+    "longitude": 77.6355,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/0QLnDhgB/image.png"
+  },
+  {
+    "placeName": "Coakers Walk",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.2321,
+    "longitude": 77.4885,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/8cMHHwNP/image.png"
+  },
+  {
+    "placeName": "Manimuthar Waterfalls",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.6424,
+    "longitude": 77.3891,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/59Cnb9Ld/image.png"
+  },
+  {
+    "placeName": "Mukurthi National Park",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.3426,
+    "longitude": 76.4562,
+    "rating": 4.8,
+    "imageURL": "https://i.postimg.cc/xdZ3VBd1/image.png"
+  },
+  {
+    "placeName": "Silent Valley View",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.2284,
+    "longitude": 77.4722,
+    "rating": 4.4,
+    "imageURL": "https://i.postimg.cc/V6bBf4SB/image.png"
+  },
+  {
+    "placeName": "Thiruparankundram Murugan Temple",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.8833,
+    "longitude": 78.0744,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/qByXWbHp/image.png"
+  },
+  {
+    "placeName": "Kiliyur Falls",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.7758,
+    "longitude": 78.2191,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/rFTCT1qx/image.png"
+  },
+  {
+    "placeName": "Poombarai Village View",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.2723,
+    "longitude": 77.4849,
+    "rating": 4.5,
+    "imageURL": "https://i.postimg.cc/Wb7m1d4K/image.png"
+  },
+  {
+    "placeName": "Nagore Dargah",
+    "city": "Nagapattinam, Tamil Nadu",
+    "latitude": 10.7682,
+    "longitude": 79.8469,
+    "rating": 4.6,
+    "imageURL": "https://i.postimg.cc/W1WM0xgw/image.png"
+  },
+  {
+    "placeName": "Santhome Basilica",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.0325,
+    "longitude": 80.2733,
+    "rating": 4.7,
+    "imageURL": "https://i.postimg.cc/bvZ1gLRc/image.png"
+  }
+]
