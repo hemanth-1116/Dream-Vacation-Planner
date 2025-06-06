@@ -39,7 +39,7 @@ const Navbar = () => {
     <>
       <nav className="navbar">
         <div className="navbar-left">
-          <span className="logo">Dream Vacation</span>
+         
         </div>
 
         <div className="navbar-center">

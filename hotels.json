@@ -1,0 +1,3482 @@
+[
+  {
+    "id": "caa54733-166c-40b9-83f6-2defaaecfeff",
+    "hotelName": "Suites Taj Mahal Heights",
+    "city": "Agra, Uttar Pradesh",
+    "latitude": 27.182415,
+    "longitude": 78.050142,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Taj Mahal Heights near Taj Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1aad17f5-5ffb-4e2a-9866-d2f5c556f6a8",
+    "hotelName": "Resort Taj Mahal Residency",
+    "city": "Agra, Uttar Pradesh",
+    "latitude": 27.170208,
+    "longitude": 78.044004,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Taj Mahal Residency near Taj Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "04a8fa72-f784-4791-a68c-2db718296373",
+    "hotelName": "Inn Taj Mahal Retreat",
+    "city": "Agra, Uttar Pradesh",
+    "latitude": 27.168532,
+    "longitude": 78.035345,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Taj Mahal Retreat near Taj Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "33494355-3f87-4460-ad05-0ac9eff92735",
+    "hotelName": "Taj Mahal Heritage Hotel",
+    "city": "Agra, Uttar Pradesh",
+    "latitude": 27.177972,
+    "longitude": 78.049294,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Taj Mahal Heritage Hotel near Taj Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "162d343d-694d-4550-aa3b-64d8970fc43d",
+    "hotelName": "The Gateway of India Grand",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.92514,
+    "longitude": 72.82592,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Gateway of India Grand near Gateway of India offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "cc944d6a-de44-4bfd-b73a-14b87a671658",
+    "hotelName": "Gateway of India Comfort Stay",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.91545,
+    "longitude": 72.837571,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Gateway of India Comfort Stay near Gateway of India offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9d37f6b8-f3ae-4e30-aa12-d1e395f02d2b",
+    "hotelName": "Lodge Gateway of India View",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.922107,
+    "longitude": 72.843659,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Gateway of India View near Gateway of India offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8ff8d37a-c50e-4c5a-a047-54e00de3ddeb",
+    "hotelName": "Villa Gateway of India Palace",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.923776,
+    "longitude": 72.829328,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Gateway of India Palace near Gateway of India offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "92a4836b-1e95-46f1-896c-ce21f984ebaf",
+    "hotelName": "Inn Charminar Retreat",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.368543,
+    "longitude": 78.478349,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Charminar Retreat near Charminar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0c662a1f-c7c8-4fe0-82b1-5700a6eacb53",
+    "hotelName": "Suites Charminar Heights",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.359474,
+    "longitude": 78.477844,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Charminar Heights near Charminar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "872b3fcc-f0aa-4f94-8ec9-5176b11aa4eb",
+    "hotelName": "Resort Charminar Residency",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.353241,
+    "longitude": 78.470541,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Charminar Residency near Charminar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8c533390-ff0a-41f5-8fe0-c72d87a106e1",
+    "hotelName": "Charminar Comfort Stay",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.357016,
+    "longitude": 78.465918,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Charminar Comfort Stay near Charminar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "18b708f7-8617-4b43-bf22-95a36d4c127a",
+    "hotelName": "StayEasy RamaKrishna Beach Inn",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.717656,
+    "longitude": 83.267317,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy RamaKrishna Beach Inn near RamaKrishna Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2362eb2b-9a1c-4193-b106-0104d2b87fdf",
+    "hotelName": "Resort RamaKrishna Beach Residency",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.722426,
+    "longitude": 83.26669,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort RamaKrishna Beach Residency near RamaKrishna Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6e437163-3770-460a-82cf-96feee452d8f",
+    "hotelName": "Hotel RamaKrishna Beach Deluxe",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.715396,
+    "longitude": 83.274957,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel RamaKrishna Beach Deluxe near RamaKrishna Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b9894c74-ca15-4b2c-8d40-d5f540f3739d",
+    "hotelName": "The RamaKrishna Beach Grand",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.728679,
+    "longitude": 83.27717,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "The RamaKrishna Beach Grand near RamaKrishna Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "fb1307b0-cfcf-46f5-95dc-6796acc19017",
+    "hotelName": "StayEasy Jaipur Palace Inn",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.92705,
+    "longitude": 75.823318,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Jaipur Palace Inn near Jaipur Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9aa32843-c0a8-4ad6-9a38-ed0f2265b8ae",
+    "hotelName": "Jaipur Palace Heritage Hotel",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.918205,
+    "longitude": 75.817542,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Jaipur Palace Heritage Hotel near Jaipur Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2545d733-92e2-459a-be39-2d05a34cd915",
+    "hotelName": "Hotel Jaipur Palace Deluxe",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.923257,
+    "longitude": 75.815963,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Jaipur Palace Deluxe near Jaipur Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7096995e-ef91-46cb-82df-446c19432299",
+    "hotelName": "Suites Jaipur Palace Heights",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.927088,
+    "longitude": 75.816935,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Jaipur Palace Heights near Jaipur Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6a5bccee-21b9-410b-b565-3aa23ec5aeed",
+    "hotelName": "Lodge Mysore Palace View",
+    "city": "Mysore, Karnataka",
+    "latitude": 12.310521,
+    "longitude": 76.660837,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Mysore Palace View near Mysore Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e5e853f8-b2f6-4e54-a69e-40c1034ce3ac",
+    "hotelName": "Hotel Mysore Palace Deluxe",
+    "city": "Mysore, Karnataka",
+    "latitude": 12.314216,
+    "longitude": 76.659866,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Mysore Palace Deluxe near Mysore Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8bf666e3-a019-48b8-bef0-eabbc4f390d7",
+    "hotelName": "Mysore Palace Heritage Hotel",
+    "city": "Mysore, Karnataka",
+    "latitude": 12.305846,
+    "longitude": 76.650901,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Mysore Palace Heritage Hotel near Mysore Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e3c10d72-2ca6-4578-8e95-a537dcb2ddec",
+    "hotelName": "Resort Mysore Palace Residency",
+    "city": "Mysore, Karnataka",
+    "latitude": 12.300808,
+    "longitude": 76.66025,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Mysore Palace Residency near Mysore Palace offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e567d35e-87f6-4539-a79d-5187aa843cee",
+    "hotelName": "Hotel India Gate Deluxe",
+    "city": "New Delhi, Delhi",
+    "latitude": 28.609964,
+    "longitude": 77.230094,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel India Gate Deluxe near India Gate offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1893ea41-a252-48fa-9ec2-2a99818f14d2",
+    "hotelName": "Resort India Gate Residency",
+    "city": "New Delhi, Delhi",
+    "latitude": 28.613962,
+    "longitude": 77.230196,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort India Gate Residency near India Gate offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "77e43d50-a94d-4e2e-92c5-dd05402d30a8",
+    "hotelName": "India Gate Heritage Hotel",
+    "city": "New Delhi, Delhi",
+    "latitude": 28.609727,
+    "longitude": 77.22603,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "India Gate Heritage Hotel near India Gate offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b9d021a6-f0a6-467a-b8e9-9e434db23177",
+    "hotelName": "StayEasy India Gate Inn",
+    "city": "New Delhi, Delhi",
+    "latitude": 28.609338,
+    "longitude": 77.232524,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy India Gate Inn near India Gate offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "83d2591a-637e-487c-8980-754a291d6d48",
+    "hotelName": "Red Fort Comfort Stay",
+    "city": "Delhi, Delhi",
+    "latitude": 28.653608,
+    "longitude": 77.243992,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Red Fort Comfort Stay near Red Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9ba08eaa-609d-43fb-bbb0-a29854eba23d",
+    "hotelName": "Suites Red Fort Heights",
+    "city": "Delhi, Delhi",
+    "latitude": 28.651866,
+    "longitude": 77.240646,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Red Fort Heights near Red Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8cfdc7f7-69f6-4879-acc9-d99fe1d53c53",
+    "hotelName": "Lodge Red Fort View",
+    "city": "Delhi, Delhi",
+    "latitude": 28.656809,
+    "longitude": 77.237625,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Red Fort View near Red Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "08b0ea93-5b85-4639-88b5-d5f92bb2d9cf",
+    "hotelName": "Villa Red Fort Palace",
+    "city": "Delhi, Delhi",
+    "latitude": 28.66319,
+    "longitude": 77.245265,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Red Fort Palace near Red Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c7786563-de28-42b6-be1b-fb2f9ac31695",
+    "hotelName": "Qutub Minar Heritage Hotel",
+    "city": "Delhi, Delhi",
+    "latitude": 28.521904,
+    "longitude": 77.182011,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Qutub Minar Heritage Hotel near Qutub Minar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "fcbd2bd9-9d5b-48c9-bb78-18e342612719",
+    "hotelName": "Qutub Minar Comfort Stay",
+    "city": "Delhi, Delhi",
+    "latitude": 28.526504,
+    "longitude": 77.190182,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Qutub Minar Comfort Stay near Qutub Minar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9001381b-0033-4d17-b3e8-42d97f5a2a05",
+    "hotelName": "Suites Qutub Minar Heights",
+    "city": "Delhi, Delhi",
+    "latitude": 28.5171,
+    "longitude": 77.185634,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Qutub Minar Heights near Qutub Minar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5e587634-a71e-4a04-b367-0e77e0e00223",
+    "hotelName": "Lodge Qutub Minar View",
+    "city": "Delhi, Delhi",
+    "latitude": 28.523986,
+    "longitude": 77.188676,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Qutub Minar View near Qutub Minar offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f0d23502-65b8-4cab-ba40-c6421511c01d",
+    "hotelName": "StayEasy Golden Temple Inn",
+    "city": "Amritsar, Punjab",
+    "latitude": 31.614488,
+    "longitude": 74.88386,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Golden Temple Inn near Golden Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2d963fb3-21df-4ff6-b94f-131ab0c504e8",
+    "hotelName": "Hotel Golden Temple Deluxe",
+    "city": "Amritsar, Punjab",
+    "latitude": 31.627996,
+    "longitude": 74.872396,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Golden Temple Deluxe near Golden Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5e7b4586-4e89-4e6a-a75b-6d3bec5206c0",
+    "hotelName": "Villa Golden Temple Palace",
+    "city": "Amritsar, Punjab",
+    "latitude": 31.610847,
+    "longitude": 74.873164,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Golden Temple Palace near Golden Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2aaf4f1c-7a87-4e2b-8325-a67b55e3409f",
+    "hotelName": "Inn Golden Temple Retreat",
+    "city": "Amritsar, Punjab",
+    "latitude": 31.618514,
+    "longitude": 74.86731,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Golden Temple Retreat near Golden Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "bf43fdf1-7ef3-4c03-968c-ba9b23a71657",
+    "hotelName": "Villa Hawa Mahal Palace",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.919121,
+    "longitude": 75.822463,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Hawa Mahal Palace near Hawa Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "91275479-b7ae-4005-80ae-1d858a237fd9",
+    "hotelName": "Inn Hawa Mahal Retreat",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.921951,
+    "longitude": 75.835266,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Hawa Mahal Retreat near Hawa Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "db9b73a3-9905-4131-b285-57f5f4b93d04",
+    "hotelName": "The Hawa Mahal Grand",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.930126,
+    "longitude": 75.822513,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Hawa Mahal Grand near Hawa Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0a7d40d6-cdc3-4dbf-b470-18e3fa93908f",
+    "hotelName": "Hawa Mahal Heritage Hotel",
+    "city": "Jaipur, Rajasthan",
+    "latitude": 26.919575,
+    "longitude": 75.836685,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Hawa Mahal Heritage Hotel near Hawa Mahal offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "dd4f6c66-eae2-493a-b8ad-d9e0f784ef5e",
+    "hotelName": "Inn Sun Temple Retreat",
+    "city": "Konark, Odisha",
+    "latitude": 19.886503,
+    "longitude": 86.101119,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Sun Temple Retreat near Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4492a9ea-46d0-4e68-ae19-12fd656529cd",
+    "hotelName": "Sun Temple Heritage Hotel",
+    "city": "Konark, Odisha",
+    "latitude": 19.889469,
+    "longitude": 86.087279,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Sun Temple Heritage Hotel near Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3539ba52-7e4b-4454-b575-065ac5d0ad5d",
+    "hotelName": "Lodge Sun Temple View",
+    "city": "Konark, Odisha",
+    "latitude": 19.884412,
+    "longitude": 86.100364,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Sun Temple View near Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "30398810-0b12-4ebd-b575-9b5d51e57618",
+    "hotelName": "Sun Temple Comfort Stay",
+    "city": "Konark, Odisha",
+    "latitude": 19.878438,
+    "longitude": 86.090782,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Sun Temple Comfort Stay near Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4ead517e-43b3-4534-a841-d76db43ed297",
+    "hotelName": "Resort Jaisalmer Fort Residency",
+    "city": "Jaisalmer, Rajasthan",
+    "latitude": 26.909414,
+    "longitude": 70.904183,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Jaisalmer Fort Residency near Jaisalmer Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "890cfff6-cdf1-4744-a6e7-23f61a033ab5",
+    "hotelName": "Inn Jaisalmer Fort Retreat",
+    "city": "Jaisalmer, Rajasthan",
+    "latitude": 26.91133,
+    "longitude": 70.918331,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Jaisalmer Fort Retreat near Jaisalmer Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4057b8f0-2499-4bf0-9bc5-f0bedf54a7f1",
+    "hotelName": "StayEasy Jaisalmer Fort Inn",
+    "city": "Jaisalmer, Rajasthan",
+    "latitude": 26.920694,
+    "longitude": 70.906491,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Jaisalmer Fort Inn near Jaisalmer Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9d73fca5-2cc8-455f-aa2c-b06b3d8c141f",
+    "hotelName": "Suites Jaisalmer Fort Heights",
+    "city": "Jaisalmer, Rajasthan",
+    "latitude": 26.91131,
+    "longitude": 70.91959,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Jaisalmer Fort Heights near Jaisalmer Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b9052556-aa12-4814-975f-4c08115dad90",
+    "hotelName": "Resort Elephanta Caves Residency",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.956739,
+    "longitude": 72.928693,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Elephanta Caves Residency near Elephanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d3563ad1-3beb-4c26-98b0-e5574faa52d1",
+    "hotelName": "Suites Elephanta Caves Heights",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.958293,
+    "longitude": 72.928642,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Elephanta Caves Heights near Elephanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "79d6339c-c9a6-4177-ab83-844adc88ff72",
+    "hotelName": "StayEasy Elephanta Caves Inn",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.969437,
+    "longitude": 72.927588,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Elephanta Caves Inn near Elephanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c6a8cab2-0129-4bec-86e4-5f856473d049",
+    "hotelName": "Elephanta Caves Comfort Stay",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.955177,
+    "longitude": 72.922355,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Elephanta Caves Comfort Stay near Elephanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d81def1a-7214-4f97-aca2-a96ad0dca2be",
+    "hotelName": "Resort Victoria Memorial Residency",
+    "city": "Kolkata, West Bengal",
+    "latitude": 22.545837,
+    "longitude": 88.333724,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Victoria Memorial Residency near Victoria Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5451711e-4253-4874-a215-a16bb93ad181",
+    "hotelName": "Villa Victoria Memorial Palace",
+    "city": "Kolkata, West Bengal",
+    "latitude": 22.545819,
+    "longitude": 88.341742,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Victoria Memorial Palace near Victoria Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "783e51ca-8efe-42eb-bb23-990ef116945c",
+    "hotelName": "Inn Victoria Memorial Retreat",
+    "city": "Kolkata, West Bengal",
+    "latitude": 22.548711,
+    "longitude": 88.349757,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Victoria Memorial Retreat near Victoria Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "396996b7-9b81-4ff3-a0f9-c826e6872ddd",
+    "hotelName": "Hotel Victoria Memorial Deluxe",
+    "city": "Kolkata, West Bengal",
+    "latitude": 22.547098,
+    "longitude": 88.335925,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Victoria Memorial Deluxe near Victoria Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "27abe4a8-5c74-40cf-927f-40c868c6f153",
+    "hotelName": "Suites Ajanta Caves Heights",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.551566,
+    "longitude": 75.710019,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Ajanta Caves Heights near Ajanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ef22fe5f-bf49-4395-aae2-994746bc407b",
+    "hotelName": "Ajanta Caves Comfort Stay",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.543921,
+    "longitude": 75.708826,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Ajanta Caves Comfort Stay near Ajanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8f0f30e4-b684-4cce-9162-71f226c7a1c9",
+    "hotelName": "Lodge Ajanta Caves View",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.559578,
+    "longitude": 75.704326,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Ajanta Caves View near Ajanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e0ff511a-5187-415d-a09a-743bdd4a72c9",
+    "hotelName": "Hotel Ajanta Caves Deluxe",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.544181,
+    "longitude": 75.704616,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Ajanta Caves Deluxe near Ajanta Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0d0d5c46-f74e-49bb-bf85-db7055b70760",
+    "hotelName": "Suites Meenakshi Temple Heights",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.920006,
+    "longitude": 78.113089,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Meenakshi Temple Heights near Meenakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "eb93ec8c-7799-413a-ad87-981c76185cdd",
+    "hotelName": "StayEasy Meenakshi Temple Inn",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.917036,
+    "longitude": 78.126405,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Meenakshi Temple Inn near Meenakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "cea9b54d-eaaf-439c-a153-c87fb5fc354b",
+    "hotelName": "Villa Meenakshi Temple Palace",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.92849,
+    "longitude": 78.121006,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Meenakshi Temple Palace near Meenakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5fd6e8df-ccd0-45a2-8e02-bac962c3b5c3",
+    "hotelName": "Inn Meenakshi Temple Retreat",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.910046,
+    "longitude": 78.125326,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Meenakshi Temple Retreat near Meenakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9eb6013a-cb86-4616-b59d-8d6536170646",
+    "hotelName": "Inn Ranthambore National Park Retreat",
+    "city": "Sawai Madhopur, Rajasthan",
+    "latitude": 26.017214,
+    "longitude": 76.51255,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Ranthambore National Park Retreat near Ranthambore National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6067884a-6c11-4d23-af73-a47c29168569",
+    "hotelName": "Suites Ranthambore National Park Heights",
+    "city": "Sawai Madhopur, Rajasthan",
+    "latitude": 26.024074,
+    "longitude": 76.508749,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Ranthambore National Park Heights near Ranthambore National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "954ba2d7-e8e5-4cc4-b70c-a84b3706c31d",
+    "hotelName": "The Ranthambore National Park Grand",
+    "city": "Sawai Madhopur, Rajasthan",
+    "latitude": 26.010017,
+    "longitude": 76.499917,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Ranthambore National Park Grand near Ranthambore National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2ea6ba7b-5cb5-4140-a281-021261238168",
+    "hotelName": "StayEasy Ranthambore National Park Inn",
+    "city": "Sawai Madhopur, Rajasthan",
+    "latitude": 26.02233,
+    "longitude": 76.501828,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Ranthambore National Park Inn near Ranthambore National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "fa6d6433-1355-45b9-b958-f557ec51c8ef",
+    "hotelName": "Lodge Kaziranga National Park View",
+    "city": "Golaghat, Assam",
+    "latitude": 26.582815,
+    "longitude": 93.166096,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Kaziranga National Park View near Kaziranga National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c6a026cf-3254-44d9-a910-0137647cbf97",
+    "hotelName": "Kaziranga National Park Heritage Hotel",
+    "city": "Golaghat, Assam",
+    "latitude": 26.583794,
+    "longitude": 93.179756,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Kaziranga National Park Heritage Hotel near Kaziranga National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8b12d8c1-d290-445d-848e-41e778f17134",
+    "hotelName": "Suites Kaziranga National Park Heights",
+    "city": "Golaghat, Assam",
+    "latitude": 26.572159,
+    "longitude": 93.161761,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Kaziranga National Park Heights near Kaziranga National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d7035371-80d7-4c79-bc63-5b6fe6ec3e11",
+    "hotelName": "StayEasy Kaziranga National Park Inn",
+    "city": "Golaghat, Assam",
+    "latitude": 26.576756,
+    "longitude": 93.180854,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Kaziranga National Park Inn near Kaziranga National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3fee5112-e7e7-40dc-abda-8096a75dcd2e",
+    "hotelName": "Ladakh Monasteries Comfort Stay",
+    "city": "Leh, Ladakh",
+    "latitude": 34.159523,
+    "longitude": 77.581666,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Ladakh Monasteries Comfort Stay near Ladakh Monasteries offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "073e2918-bd5c-472d-b8da-fd376295f770",
+    "hotelName": "Lodge Ladakh Monasteries View",
+    "city": "Leh, Ladakh",
+    "latitude": 34.156438,
+    "longitude": 77.590615,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Ladakh Monasteries View near Ladakh Monasteries offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0eec9dfc-5c40-4378-ac82-04b1560da869",
+    "hotelName": "Resort Ladakh Monasteries Residency",
+    "city": "Leh, Ladakh",
+    "latitude": 34.163254,
+    "longitude": 77.589407,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Ladakh Monasteries Residency near Ladakh Monasteries offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "00aa09e9-f986-45f2-a96d-9857efad80f4",
+    "hotelName": "Hotel Ladakh Monasteries Deluxe",
+    "city": "Leh, Ladakh",
+    "latitude": 34.164293,
+    "longitude": 77.594299,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Ladakh Monasteries Deluxe near Ladakh Monasteries offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0fda6336-a811-4829-9b66-c1d44c0b43a5",
+    "hotelName": "StayEasy Ellora Caves Inn",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.017776,
+    "longitude": 75.183239,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Ellora Caves Inn near Ellora Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "935d180c-a1d3-4786-b74e-5d01eab5b18f",
+    "hotelName": "The Ellora Caves Grand",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.03372,
+    "longitude": 75.172773,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Ellora Caves Grand near Ellora Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7f2e19d7-8102-471a-ac7c-24117d9f40d0",
+    "hotelName": "Lodge Ellora Caves View",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.022666,
+    "longitude": 75.171152,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Ellora Caves View near Ellora Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0d9eb10d-9f44-4355-bd0e-075768715d6b",
+    "hotelName": "Ellora Caves Heritage Hotel",
+    "city": "Aurangabad, Maharashtra",
+    "latitude": 20.035925,
+    "longitude": 75.183735,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Ellora Caves Heritage Hotel near Ellora Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d1c6ed53-7678-4d8d-98c0-d8d4fbc1acb9",
+    "hotelName": "Suites Sundarbans Heights",
+    "city": "South 24 Parganas, West Bengal",
+    "latitude": 22.036317,
+    "longitude": 88.942818,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Sundarbans Heights near Sundarbans offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "79a523c3-17c1-4be0-abc8-39d1a8ff3f44",
+    "hotelName": "Lodge Sundarbans View",
+    "city": "South 24 Parganas, West Bengal",
+    "latitude": 22.027909,
+    "longitude": 88.937657,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Sundarbans View near Sundarbans offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "73a688fa-10cf-444d-a86b-b3d413fdfc24",
+    "hotelName": "The Sundarbans Grand",
+    "city": "South 24 Parganas, West Bengal",
+    "latitude": 22.028077,
+    "longitude": 88.933071,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Sundarbans Grand near Sundarbans offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "712cc3be-372a-4d53-a5db-78bb30b03f70",
+    "hotelName": "Sundarbans Comfort Stay",
+    "city": "South 24 Parganas, West Bengal",
+    "latitude": 22.042525,
+    "longitude": 88.92498,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Sundarbans Comfort Stay near Sundarbans offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "913811b0-61d4-41c8-94c7-502c4aee68d6",
+    "hotelName": "Inn Kumarakom Backwaters Retreat",
+    "city": "Kumarakom, Kerala",
+    "latitude": 9.626819,
+    "longitude": 76.436143,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Kumarakom Backwaters Retreat near Kumarakom Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "559c9dfe-bcfa-4f0b-97d2-bf113a613d33",
+    "hotelName": "StayEasy Kumarakom Backwaters Inn",
+    "city": "Kumarakom, Kerala",
+    "latitude": 9.621042,
+    "longitude": 76.431233,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Kumarakom Backwaters Inn near Kumarakom Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "08e96d6b-1514-4a41-b6fd-80f4ce4a2ca3",
+    "hotelName": "Suites Kumarakom Backwaters Heights",
+    "city": "Kumarakom, Kerala",
+    "latitude": 9.610293,
+    "longitude": 76.427866,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Kumarakom Backwaters Heights near Kumarakom Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8d14cc39-59f5-4a27-8ed4-47434f46ed72",
+    "hotelName": "The Kumarakom Backwaters Grand",
+    "city": "Kumarakom, Kerala",
+    "latitude": 9.624254,
+    "longitude": 76.425611,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Kumarakom Backwaters Grand near Kumarakom Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e0b61fc6-8bd9-43ea-bb39-7b633dd030a5",
+    "hotelName": "Inn Borra Caves Retreat",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.306947,
+    "longitude": 83.002307,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Borra Caves Retreat near Borra Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f9b59a90-9614-405c-9173-d2d0c883da10",
+    "hotelName": "Villa Borra Caves Palace",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.320963,
+    "longitude": 83.008093,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Borra Caves Palace near Borra Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "628702ef-6ef3-4879-8cd6-5552dac3bb48",
+    "hotelName": "StayEasy Borra Caves Inn",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.325123,
+    "longitude": 83.014615,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Borra Caves Inn near Borra Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7de9d6ed-85d9-4ad5-bec4-d689b819a2a4",
+    "hotelName": "Hotel Borra Caves Deluxe",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.314637,
+    "longitude": 83.014905,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Borra Caves Deluxe near Borra Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3748ffa5-4c61-47b8-804e-a3362b38d83b",
+    "hotelName": "INS Kurusura Submarine Museum Comfort Stay",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.71647,
+    "longitude": 83.310457,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "INS Kurusura Submarine Museum Comfort Stay near INS Kurusura Submarine Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d8983778-80f3-4ebd-9909-7bbddcec59ae",
+    "hotelName": "Lodge INS Kurusura Submarine Museum View",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.713319,
+    "longitude": 83.322299,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge INS Kurusura Submarine Museum View near INS Kurusura Submarine Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6b565e9d-0bde-4fea-9521-9c12a51f7831",
+    "hotelName": "Resort INS Kurusura Submarine Museum Residency",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.722242,
+    "longitude": 83.321081,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort INS Kurusura Submarine Museum Residency near INS Kurusura Submarine Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2e2f5ac6-b8de-4e19-9b19-ca6c0c1811be",
+    "hotelName": "Suites INS Kurusura Submarine Museum Heights",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.713093,
+    "longitude": 83.317754,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites INS Kurusura Submarine Museum Heights near INS Kurusura Submarine Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "64c609cd-511d-477d-9a3b-196611164f33",
+    "hotelName": "Villa Kailasagiri Hill Park Palace",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.742251,
+    "longitude": 83.335829,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Kailasagiri Hill Park Palace near Kailasagiri Hill Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d3aeac38-095d-44ae-94b2-8020d46af586",
+    "hotelName": "Lodge Kailasagiri Hill Park View",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.746096,
+    "longitude": 83.344042,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Kailasagiri Hill Park View near Kailasagiri Hill Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "bb819c8e-3dc5-43a9-abba-e390742118ad",
+    "hotelName": "Kailasagiri Hill Park Comfort Stay",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.75204,
+    "longitude": 83.342477,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Kailasagiri Hill Park Comfort Stay near Kailasagiri Hill Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e23b02c2-21dc-4776-9856-dd48868fe8aa",
+    "hotelName": "Inn Kailasagiri Hill Park Retreat",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.748703,
+    "longitude": 83.336889,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Kailasagiri Hill Park Retreat near Kailasagiri Hill Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5616ef7b-cc42-42d7-b85a-febb03373edb",
+    "hotelName": "Inn Rishikonda Beach Retreat",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.748389,
+    "longitude": 83.369021,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Rishikonda Beach Retreat near Rishikonda Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e7ecc6ed-6935-45c4-ba8a-1b0e29ca5e1b",
+    "hotelName": "Villa Rishikonda Beach Palace",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.757124,
+    "longitude": 83.387877,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Rishikonda Beach Palace near Rishikonda Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4b8c4511-2f2f-4121-a4b8-163ed9d96436",
+    "hotelName": "Resort Rishikonda Beach Residency",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.74867,
+    "longitude": 83.381515,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Rishikonda Beach Residency near Rishikonda Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ba7d2784-0411-425c-bf09-5bc63966da48",
+    "hotelName": "Rishikonda Beach Heritage Hotel",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.75534,
+    "longitude": 83.382021,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Rishikonda Beach Heritage Hotel near Rishikonda Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f8b9cfd4-bf86-4f60-831a-3c740ba15609",
+    "hotelName": "Resort Yarada Beach Residency",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.64523,
+    "longitude": 83.280672,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Yarada Beach Residency near Yarada Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "32bcb36f-8bfc-4a18-b01e-2c18a8de8826",
+    "hotelName": "Yarada Beach Comfort Stay",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.650472,
+    "longitude": 83.270973,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Yarada Beach Comfort Stay near Yarada Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e1c8ee93-9c89-44d9-a168-629a98f0c585",
+    "hotelName": "Villa Yarada Beach Palace",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.658404,
+    "longitude": 83.281101,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Yarada Beach Palace near Yarada Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "305e11f5-0767-457a-be72-67071e17980d",
+    "hotelName": "Lodge Yarada Beach View",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.65516,
+    "longitude": 83.277041,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Yarada Beach View near Yarada Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3b4e54d9-1c62-4e38-9758-5669bdda3622",
+    "hotelName": "The Golconda Fort Grand",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.377472,
+    "longitude": 78.391264,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Golconda Fort Grand near Golconda Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b9f28075-d8fb-400a-83d4-b4c1de77974a",
+    "hotelName": "Hotel Golconda Fort Deluxe",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.381963,
+    "longitude": 78.404805,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Golconda Fort Deluxe near Golconda Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e7baf03a-b0bf-4efc-9e83-2d3311d3566d",
+    "hotelName": "Suites Golconda Fort Heights",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.376643,
+    "longitude": 78.405447,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Golconda Fort Heights near Golconda Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "78a6325c-f252-4875-9e11-cbc7ffff2f27",
+    "hotelName": "Villa Golconda Fort Palace",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.391141,
+    "longitude": 78.407461,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Golconda Fort Palace near Golconda Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "74db19bf-b922-4bda-877b-63dea1bedf3f",
+    "hotelName": "Villa Hussain Sagar Lake Palace",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.428791,
+    "longitude": 78.480288,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Hussain Sagar Lake Palace near Hussain Sagar Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "46b126e1-d4a7-476a-ad57-98383f8d9119",
+    "hotelName": "Inn Hussain Sagar Lake Retreat",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.43387,
+    "longitude": 78.48035,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Hussain Sagar Lake Retreat near Hussain Sagar Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1f3b8004-3263-4485-ba6b-423958d575b4",
+    "hotelName": "Lodge Hussain Sagar Lake View",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.423882,
+    "longitude": 78.469926,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Hussain Sagar Lake View near Hussain Sagar Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "bd449094-c47f-4488-bc2a-1a06fd57c380",
+    "hotelName": "StayEasy Hussain Sagar Lake Inn",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.423385,
+    "longitude": 78.481789,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Hussain Sagar Lake Inn near Hussain Sagar Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3dc86f67-5aae-4990-8994-4e3dd7a81223",
+    "hotelName": "Hotel Salar Jung Museum Deluxe",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.375641,
+    "longitude": 78.484052,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Salar Jung Museum Deluxe near Salar Jung Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2de106a1-23c1-4faf-a82e-90220a6a4895",
+    "hotelName": "Suites Salar Jung Museum Heights",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.362582,
+    "longitude": 78.480392,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Salar Jung Museum Heights near Salar Jung Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "595cc6c1-10c2-4758-9a7e-8c57d6c8dbf6",
+    "hotelName": "The Salar Jung Museum Grand",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.368415,
+    "longitude": 78.479277,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Salar Jung Museum Grand near Salar Jung Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b9191c55-f89b-4334-a1df-35dfbe88c09e",
+    "hotelName": "StayEasy Salar Jung Museum Inn",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.362806,
+    "longitude": 78.481748,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Salar Jung Museum Inn near Salar Jung Museum offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a05ef3ab-04de-41a8-8f52-3a91d0e02aca",
+    "hotelName": "Suites Ramoji Film City Heights",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.255307,
+    "longitude": 78.677462,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Ramoji Film City Heights near Ramoji Film City offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "916354af-ea97-47f9-a6ec-8d31364c4a18",
+    "hotelName": "The Ramoji Film City Grand",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.258683,
+    "longitude": 78.674483,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Ramoji Film City Grand near Ramoji Film City offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8e1c0718-4a06-49ef-bdbb-0c522dbf01a0",
+    "hotelName": "Villa Ramoji Film City Palace",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.251967,
+    "longitude": 78.671602,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Ramoji Film City Palace near Ramoji Film City offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "04d4f8c8-2748-457b-8005-28e06d46d32d",
+    "hotelName": "Resort Ramoji Film City Residency",
+    "city": "Hyderabad, Telangana",
+    "latitude": 17.251234,
+    "longitude": 78.682945,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Ramoji Film City Residency near Ramoji Film City offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "baa2b2ed-4370-4d29-8760-12d946d8d780",
+    "hotelName": "Suites Marine Drive Heights",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.952915,
+    "longitude": 72.823436,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Marine Drive Heights near Marine Drive offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d05efd89-5a33-40b9-aec5-b273f3f85114",
+    "hotelName": "Resort Marine Drive Residency",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.935151,
+    "longitude": 72.815646,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Marine Drive Residency near Marine Drive offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6fdc6d74-1df8-4b72-9b0c-e1330e5999e1",
+    "hotelName": "Hotel Marine Drive Deluxe",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.93564,
+    "longitude": 72.819068,
+    "rating": 3.5,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Marine Drive Deluxe near Marine Drive offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "083da6fb-3610-49cf-83d1-26b02774d33f",
+    "hotelName": "Villa Marine Drive Palace",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 18.945095,
+    "longitude": 72.832874,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Marine Drive Palace near Marine Drive offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "67ac609c-87ab-43a5-9253-131da789e754",
+    "hotelName": "The Bandra-Worli Sea Link Grand",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.02768,
+    "longitude": 72.820924,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "The Bandra-Worli Sea Link Grand near Bandra-Worli Sea Link offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "32d1edc7-84f4-4b35-a92d-e5e034bde83e",
+    "hotelName": "Inn Bandra-Worli Sea Link Retreat",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.035505,
+    "longitude": 72.807923,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Bandra-Worli Sea Link Retreat near Bandra-Worli Sea Link offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "72c1f988-9c9e-4338-83ad-07eb82d9a6e3",
+    "hotelName": "Bandra-Worli Sea Link Comfort Stay",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.021674,
+    "longitude": 72.825317,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Bandra-Worli Sea Link Comfort Stay near Bandra-Worli Sea Link offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9572a5ad-d676-4faa-bf8e-1dd32ce66d3f",
+    "hotelName": "Lodge Bandra-Worli Sea Link View",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.039862,
+    "longitude": 72.816235,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Bandra-Worli Sea Link View near Bandra-Worli Sea Link offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b98c1ccb-a248-4e37-a2ab-c404b8e2b50a",
+    "hotelName": "Hotel Juhu Beach Deluxe",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.097012,
+    "longitude": 72.824035,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Juhu Beach Deluxe near Juhu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "254e6847-45fe-4008-a6d1-40d79bc5f023",
+    "hotelName": "Juhu Beach Heritage Hotel",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.104112,
+    "longitude": 72.823232,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Juhu Beach Heritage Hotel near Juhu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d8e58e26-8f01-4078-a661-90b78e1f52c9",
+    "hotelName": "Lodge Juhu Beach View",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.103769,
+    "longitude": 72.824232,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Juhu Beach View near Juhu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "81f928fe-d003-49ac-87f4-2d25c1d0a7b7",
+    "hotelName": "Resort Juhu Beach Residency",
+    "city": "Mumbai, Maharashtra",
+    "latitude": 19.095615,
+    "longitude": 72.835118,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Juhu Beach Residency near Juhu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "68b511cb-91e2-4e16-9d87-347b7b430cd9",
+    "hotelName": "Suites Alleppey Backwaters Heights",
+    "city": "Alappuzha, Kerala",
+    "latitude": 9.503369,
+    "longitude": 76.342446,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Alleppey Backwaters Heights near Alleppey Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6437414e-8fed-4518-897d-42f2f5b03415",
+    "hotelName": "The Alleppey Backwaters Grand",
+    "city": "Alappuzha, Kerala",
+    "latitude": 9.508081,
+    "longitude": 76.331604,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "The Alleppey Backwaters Grand near Alleppey Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "50d68e2b-9e4e-4a6d-a386-b88570f227e4",
+    "hotelName": "Villa Alleppey Backwaters Palace",
+    "city": "Alappuzha, Kerala",
+    "latitude": 9.508009,
+    "longitude": 76.331002,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Alleppey Backwaters Palace near Alleppey Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "11895f45-0699-45c1-b713-6faa1fdd0696",
+    "hotelName": "Hotel Alleppey Backwaters Deluxe",
+    "city": "Alappuzha, Kerala",
+    "latitude": 9.496048,
+    "longitude": 76.337945,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Alleppey Backwaters Deluxe near Alleppey Backwaters offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6c346f26-79dc-4520-8423-4c1c41143ac3",
+    "hotelName": "Inn Kovalam Beach Retreat",
+    "city": "Kovalam, Kerala",
+    "latitude": 8.410041,
+    "longitude": 76.97565,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Kovalam Beach Retreat near Kovalam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e9b52081-10e2-4bb4-bbc2-73c0ae93d3f7",
+    "hotelName": "The Kovalam Beach Grand",
+    "city": "Kovalam, Kerala",
+    "latitude": 8.410371,
+    "longitude": 76.974757,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Kovalam Beach Grand near Kovalam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "27f83679-1db9-4058-beb9-a09fc2440c29",
+    "hotelName": "Kovalam Beach Heritage Hotel",
+    "city": "Kovalam, Kerala",
+    "latitude": 8.407463,
+    "longitude": 76.974363,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Kovalam Beach Heritage Hotel near Kovalam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "299ebf2d-159a-41bd-a570-940a24705fd3",
+    "hotelName": "Villa Kovalam Beach Palace",
+    "city": "Kovalam, Kerala",
+    "latitude": 8.405743,
+    "longitude": 76.981515,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Kovalam Beach Palace near Kovalam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "327f47be-140f-406b-8e62-271339c0049f",
+    "hotelName": "The Periyar Wildlife Sanctuary Grand",
+    "city": "Thekkady, Kerala",
+    "latitude": 9.463063,
+    "longitude": 77.173417,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Periyar Wildlife Sanctuary Grand near Periyar Wildlife Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "98e66f0d-f0a9-43f0-bcbe-ae9b0681e19e",
+    "hotelName": "Inn Periyar Wildlife Sanctuary Retreat",
+    "city": "Thekkady, Kerala",
+    "latitude": 9.465903,
+    "longitude": 77.170783,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Periyar Wildlife Sanctuary Retreat near Periyar Wildlife Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "39836769-7c0f-4b37-84e4-5560823829a0",
+    "hotelName": "Resort Periyar Wildlife Sanctuary Residency",
+    "city": "Thekkady, Kerala",
+    "latitude": 9.468053,
+    "longitude": 77.168058,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Periyar Wildlife Sanctuary Residency near Periyar Wildlife Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7b1d9771-959c-4ac2-a643-b41a7fb489d8",
+    "hotelName": "Periyar Wildlife Sanctuary Comfort Stay",
+    "city": "Thekkady, Kerala",
+    "latitude": 9.46329,
+    "longitude": 77.176243,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Periyar Wildlife Sanctuary Comfort Stay near Periyar Wildlife Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "cd2d36d1-be0f-4955-844d-12ab7eb34c1c",
+    "hotelName": "Resort Marina Beach Residency",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.045593,
+    "longitude": 80.290443,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Marina Beach Residency near Marina Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "96126e3d-bc0d-4240-9bcd-69e8ccb75416",
+    "hotelName": "The Marina Beach Grand",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.054505,
+    "longitude": 80.289811,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Marina Beach Grand near Marina Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0ec1cc26-ca7c-476e-b288-c6a8a4c0f4b3",
+    "hotelName": "Inn Marina Beach Retreat",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.049397,
+    "longitude": 80.272677,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Marina Beach Retreat near Marina Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "713b5a17-fe54-4c9b-934a-b2235c2d5bf5",
+    "hotelName": "StayEasy Marina Beach Inn",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.041613,
+    "longitude": 80.279854,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Marina Beach Inn near Marina Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "23ac2983-79aa-4c85-b687-69f22227ddfa",
+    "hotelName": "Suites Mahabalipuram Monuments Heights",
+    "city": "Mahabalipuram, Tamil Nadu",
+    "latitude": 12.627483,
+    "longitude": 80.200456,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Mahabalipuram Monuments Heights near Mahabalipuram Monuments offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2bb01340-fb1d-474b-a5bb-ccad43c5350c",
+    "hotelName": "The Mahabalipuram Monuments Grand",
+    "city": "Mahabalipuram, Tamil Nadu",
+    "latitude": 12.624743,
+    "longitude": 80.186428,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Mahabalipuram Monuments Grand near Mahabalipuram Monuments offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e5fdf27b-f662-42f2-84c6-748e8d4fc182",
+    "hotelName": "Hotel Mahabalipuram Monuments Deluxe",
+    "city": "Mahabalipuram, Tamil Nadu",
+    "latitude": 12.626714,
+    "longitude": 80.192275,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Mahabalipuram Monuments Deluxe near Mahabalipuram Monuments offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9d7c1cb0-c220-4632-ac34-028e5abea921",
+    "hotelName": "Resort Mahabalipuram Monuments Residency",
+    "city": "Mahabalipuram, Tamil Nadu",
+    "latitude": 12.625904,
+    "longitude": 80.183497,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Mahabalipuram Monuments Residency near Mahabalipuram Monuments offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e98352f5-59e9-49f1-86ec-e3b45ef6bf21",
+    "hotelName": "Kanyakumari Beach Comfort Stay",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.08527,
+    "longitude": 77.546744,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Kanyakumari Beach Comfort Stay near Kanyakumari Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "82900ddf-5134-4a32-8914-a197522196c8",
+    "hotelName": "Inn Kanyakumari Beach Retreat",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.068098,
+    "longitude": 77.560372,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Kanyakumari Beach Retreat near Kanyakumari Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9c26f36a-6acb-44ba-a5be-9299807f4bf9",
+    "hotelName": "Hotel Kanyakumari Beach Deluxe",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.080474,
+    "longitude": 77.558379,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Kanyakumari Beach Deluxe near Kanyakumari Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a8debf2c-75c0-411e-9b92-876c5a5e31a2",
+    "hotelName": "Villa Kanyakumari Beach Palace",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.069172,
+    "longitude": 77.549634,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Kanyakumari Beach Palace near Kanyakumari Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c109c019-41b7-4694-a6da-e48c37ea7cb5",
+    "hotelName": "Villa Ooty Botanical Gardens Palace",
+    "city": "Ooty, Tamil Nadu",
+    "latitude": 11.4173,
+    "longitude": 76.685775,
+    "rating": 3.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Ooty Botanical Gardens Palace near Ooty Botanical Gardens offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ce065296-e33e-466e-a60b-7fa19ddbe7ef",
+    "hotelName": "Resort Ooty Botanical Gardens Residency",
+    "city": "Ooty, Tamil Nadu",
+    "latitude": 11.408511,
+    "longitude": 76.692086,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Ooty Botanical Gardens Residency near Ooty Botanical Gardens offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ce693d73-5ee0-4e1f-a93a-210899c986e6",
+    "hotelName": "Hotel Ooty Botanical Gardens Deluxe",
+    "city": "Ooty, Tamil Nadu",
+    "latitude": 11.414828,
+    "longitude": 76.685953,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Ooty Botanical Gardens Deluxe near Ooty Botanical Gardens offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c5abe9a4-5eb2-49e2-9058-722a4afce905",
+    "hotelName": "The Ooty Botanical Gardens Grand",
+    "city": "Ooty, Tamil Nadu",
+    "latitude": 11.416227,
+    "longitude": 76.697985,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Ooty Botanical Gardens Grand near Ooty Botanical Gardens offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "04ef2770-6590-4d23-8e2f-1dd284af9c9e",
+    "hotelName": "The Dolphin's Nose Grand",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.681101,
+    "longitude": 83.281812,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "The Dolphin's Nose Grand near Dolphin's Nose offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "780b9815-88a5-4469-bf6e-693ad83d56a6",
+    "hotelName": "Dolphin's Nose Heritage Hotel",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.68001,
+    "longitude": 83.27237,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Dolphin's Nose Heritage Hotel near Dolphin's Nose offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "800f5b20-e1c2-4c0d-b7c6-ef936668f597",
+    "hotelName": "Suites Dolphin's Nose Heights",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.689829,
+    "longitude": 83.283083,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Dolphin's Nose Heights near Dolphin's Nose offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "cc4d0496-b37d-4574-ac9b-877016821d03",
+    "hotelName": "Inn Dolphin's Nose Retreat",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.682602,
+    "longitude": 83.270294,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Dolphin's Nose Retreat near Dolphin's Nose offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "12ab8984-39be-4e89-9c60-b857d375abe3",
+    "hotelName": "Lodge Simhachalam Temple View",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.770842,
+    "longitude": 83.211256,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Simhachalam Temple View near Simhachalam Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ae81ca0a-f217-4d67-8c23-67c5e2a9b3b8",
+    "hotelName": "Simhachalam Temple Heritage Hotel",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.760284,
+    "longitude": 83.218548,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Simhachalam Temple Heritage Hotel near Simhachalam Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "44f9a4e7-6332-4fcd-b1d7-b27453bb7b46",
+    "hotelName": "Hotel Simhachalam Temple Deluxe",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.760403,
+    "longitude": 83.218698,
+    "rating": 3.5,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Simhachalam Temple Deluxe near Simhachalam Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7bbaf435-96d6-491a-964e-864cf10f186a",
+    "hotelName": "Resort Simhachalam Temple Residency",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.760549,
+    "longitude": 83.216324,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Simhachalam Temple Residency near Simhachalam Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e1d476d1-b397-4548-becf-19e0a4c5380c",
+    "hotelName": "Hotel Thotlakonda Buddhist Complex Deluxe",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.764358,
+    "longitude": 83.332124,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Thotlakonda Buddhist Complex Deluxe near Thotlakonda Buddhist Complex offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "438cd78f-e065-4abf-88e3-e244aed11110",
+    "hotelName": "Inn Thotlakonda Buddhist Complex Retreat",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.764006,
+    "longitude": 83.336243,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Thotlakonda Buddhist Complex Retreat near Thotlakonda Buddhist Complex offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "83cae161-c7e3-4dcf-ac68-2eaa36ef4cf4",
+    "hotelName": "The Thotlakonda Buddhist Complex Grand",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.76841,
+    "longitude": 83.336462,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "The Thotlakonda Buddhist Complex Grand near Thotlakonda Buddhist Complex offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e39ddee5-b7af-449d-a1e2-57921465f843",
+    "hotelName": "Thotlakonda Buddhist Complex Comfort Stay",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.772254,
+    "longitude": 83.3481,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Thotlakonda Buddhist Complex Comfort Stay near Thotlakonda Buddhist Complex offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b14d2528-553f-410b-811a-eac40f208ea9",
+    "hotelName": "Lodge Indira Gandhi Zoological Park View",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.754987,
+    "longitude": 83.348771,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Indira Gandhi Zoological Park View near Indira Gandhi Zoological Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b35f6b3f-fb3c-43cc-a023-4a322b6440ae",
+    "hotelName": "Indira Gandhi Zoological Park Heritage Hotel",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.752653,
+    "longitude": 83.33475,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Indira Gandhi Zoological Park Heritage Hotel near Indira Gandhi Zoological Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "86f62cc5-0e52-4f7e-8d30-316ff2279bb5",
+    "hotelName": "Indira Gandhi Zoological Park Comfort Stay",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.740408,
+    "longitude": 83.341254,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Indira Gandhi Zoological Park Comfort Stay near Indira Gandhi Zoological Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7795dc1a-268f-468e-9d40-84123e5a3e6f",
+    "hotelName": "The Indira Gandhi Zoological Park Grand",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.749492,
+    "longitude": 83.352273,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Indira Gandhi Zoological Park Grand near Indira Gandhi Zoological Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6c123156-83fd-486b-aa30-bc90432af085",
+    "hotelName": "Suites Bheemili Beach Heights",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.896542,
+    "longitude": 83.460421,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Bheemili Beach Heights near Bheemili Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4446b422-fe59-4d5a-9e26-0c8373deda02",
+    "hotelName": "Hotel Bheemili Beach Deluxe",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.886449,
+    "longitude": 83.448965,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Bheemili Beach Deluxe near Bheemili Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "06342ef7-4076-4ca7-9b8d-b6a06f1f77c3",
+    "hotelName": "StayEasy Bheemili Beach Inn",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.898856,
+    "longitude": 83.453262,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Bheemili Beach Inn near Bheemili Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "23142d3a-17dd-4658-a3e2-e971e146ff5d",
+    "hotelName": "Inn Bheemili Beach Retreat",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.886783,
+    "longitude": 83.458698,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Bheemili Beach Retreat near Bheemili Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "989a87a1-edad-46b6-8c97-c84fbf6a3736",
+    "hotelName": "Villa Araku Valley Palace",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.327932,
+    "longitude": 82.870283,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Araku Valley Palace near Araku Valley offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4b7ebd28-b8b8-4eac-bf97-9986c5269019",
+    "hotelName": "StayEasy Araku Valley Inn",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.330962,
+    "longitude": 82.873699,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Araku Valley Inn near Araku Valley offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4684f10b-04dc-4884-9a6c-8b75e6266d47",
+    "hotelName": "Lodge Araku Valley View",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.329246,
+    "longitude": 82.858442,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Araku Valley View near Araku Valley offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f852e3e4-c895-4d22-819f-8fbb2a316070",
+    "hotelName": "The Araku Valley Grand",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 18.337477,
+    "longitude": 82.868853,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "The Araku Valley Grand near Araku Valley offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "755fa1f3-a8d6-435d-9cdd-cb6347f20b64",
+    "hotelName": "Vuda Park Heritage Hotel",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.699087,
+    "longitude": 83.31282,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Vuda Park Heritage Hotel near Vuda Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6d620e4f-e536-4fa1-b943-11ee5afe5fa7",
+    "hotelName": "Suites Vuda Park Heights",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.705958,
+    "longitude": 83.317653,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Vuda Park Heights near Vuda Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d7288c5d-a737-4005-92e1-ad47d117f6ee",
+    "hotelName": "Villa Vuda Park Palace",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.697059,
+    "longitude": 83.323934,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Vuda Park Palace near Vuda Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b835f129-74a6-4549-b163-14296241937a",
+    "hotelName": "The Vuda Park Grand",
+    "city": "Visakhapatnam, Andhra Pradesh",
+    "latitude": 17.696238,
+    "longitude": 83.314219,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "The Vuda Park Grand near Vuda Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5bb61f56-93f4-4dcd-825a-8cb10243badc",
+    "hotelName": "The Kotturu Dhanadibbalu Grand",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.360372,
+    "longitude": 83.889436,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Kotturu Dhanadibbalu Grand near Kotturu Dhanadibbalu offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "adcbd454-cee7-44f1-8d56-f64f26dfccb2",
+    "hotelName": "Hotel Kotturu Dhanadibbalu Deluxe",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.361022,
+    "longitude": 83.885901,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Kotturu Dhanadibbalu Deluxe near Kotturu Dhanadibbalu offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2dea17db-1d6f-40d4-baa2-0e963f3428f3",
+    "hotelName": "Suites Kotturu Dhanadibbalu Heights",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.359124,
+    "longitude": 83.888462,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Kotturu Dhanadibbalu Heights near Kotturu Dhanadibbalu offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a1a67c27-70a2-442e-9c87-1821bafeccf5",
+    "hotelName": "Kotturu Dhanadibbalu Heritage Hotel",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.362291,
+    "longitude": 83.893611,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Kotturu Dhanadibbalu Heritage Hotel near Kotturu Dhanadibbalu offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3b842221-9c81-4c9a-8ee3-010ea51641cb",
+    "hotelName": "Sangam Hills Heritage Hotel",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.292731,
+    "longitude": 83.89583,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Sangam Hills Heritage Hotel near Sangam Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "adda1e38-2376-4e44-99e9-ebbde708b606",
+    "hotelName": "Sangam Hills Comfort Stay",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.304389,
+    "longitude": 83.898922,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Sangam Hills Comfort Stay near Sangam Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "720fa5b9-cfa3-4b9d-95c2-56c52fc3620c",
+    "hotelName": "Inn Sangam Hills Retreat",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.308891,
+    "longitude": 83.899164,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Sangam Hills Retreat near Sangam Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e3d0f998-5cbe-4725-91d5-b47003fb71e3",
+    "hotelName": "Lodge Sangam Hills View",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.303884,
+    "longitude": 83.90457,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Sangam Hills View near Sangam Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1e991171-2c92-4a74-931e-77728253f119",
+    "hotelName": "Villa Baruva Beach Palace",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.538719,
+    "longitude": 84.357802,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Baruva Beach Palace near Baruva Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "759ada59-f60e-46a2-884d-72373f8d2449",
+    "hotelName": "Baruva Beach Heritage Hotel",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.544925,
+    "longitude": 84.368989,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Baruva Beach Heritage Hotel near Baruva Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6820bda3-7ab2-456f-a43d-a20b4b4aef79",
+    "hotelName": "StayEasy Baruva Beach Inn",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.544656,
+    "longitude": 84.374211,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Baruva Beach Inn near Baruva Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d0da1352-20fa-4431-b09e-55f7bbf82e2d",
+    "hotelName": "Baruva Beach Comfort Stay",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.543763,
+    "longitude": 84.373243,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Baruva Beach Comfort Stay near Baruva Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d1d80637-2448-4085-9161-e1f692cb3007",
+    "hotelName": "Inn Kalingapatnam Beach Retreat",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.320499,
+    "longitude": 84.135541,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Kalingapatnam Beach Retreat near Kalingapatnam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "62959303-4052-4f9c-823b-5bcbbc8ba881",
+    "hotelName": "Suites Kalingapatnam Beach Heights",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.333067,
+    "longitude": 84.131447,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Kalingapatnam Beach Heights near Kalingapatnam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8545c49a-4a2d-42ef-902c-dd86c5101a33",
+    "hotelName": "Villa Kalingapatnam Beach Palace",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.333031,
+    "longitude": 84.122707,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Kalingapatnam Beach Palace near Kalingapatnam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6c7528c4-5d7c-43a1-8d53-ec495da968a2",
+    "hotelName": "Hotel Kalingapatnam Beach Deluxe",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.337073,
+    "longitude": 84.127972,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Kalingapatnam Beach Deluxe near Kalingapatnam Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "52fa28c1-a39c-45c1-b9e2-994425ffc237",
+    "hotelName": "Arasavilli Sun Temple Heritage Hotel",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.265227,
+    "longitude": 84.017328,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Arasavilli Sun Temple Heritage Hotel near Arasavilli Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d5343ea1-daef-487f-9703-59aa1678b5ab",
+    "hotelName": "StayEasy Arasavilli Sun Temple Inn",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.267699,
+    "longitude": 84.006059,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Arasavilli Sun Temple Inn near Arasavilli Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9de0dbf2-3779-4e58-8977-06bd1a189c84",
+    "hotelName": "Inn Arasavilli Sun Temple Retreat",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.27583,
+    "longitude": 84.014017,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Arasavilli Sun Temple Retreat near Arasavilli Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d739bf7f-755e-4ac2-8010-6a885d7c9410",
+    "hotelName": "Resort Arasavilli Sun Temple Residency",
+    "city": "Srikakulam, Andhra Pradesh",
+    "latitude": 18.278983,
+    "longitude": 84.005094,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Arasavilli Sun Temple Residency near Arasavilli Sun Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "bc7110ce-bc8d-4794-8698-3db5e514bca3",
+    "hotelName": "Inn Ubbalamadugu Falls Retreat",
+    "city": "Tada, Tamil Nadu",
+    "latitude": 13.427655,
+    "longitude": 79.94179,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Ubbalamadugu Falls Retreat near Ubbalamadugu Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5209e32d-bd0b-4e20-9937-26aa360e40e8",
+    "hotelName": "Ubbalamadugu Falls Comfort Stay",
+    "city": "Tada, Tamil Nadu",
+    "latitude": 13.430217,
+    "longitude": 79.944393,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Ubbalamadugu Falls Comfort Stay near Ubbalamadugu Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "cc51cef9-2ebf-4a6a-b8bd-639598fb853e",
+    "hotelName": "Suites Ubbalamadugu Falls Heights",
+    "city": "Tada, Tamil Nadu",
+    "latitude": 13.428699,
+    "longitude": 79.944565,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Ubbalamadugu Falls Heights near Ubbalamadugu Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5f47ed09-b291-47f7-b16f-125dba72a05b",
+    "hotelName": "StayEasy Ubbalamadugu Falls Inn",
+    "city": "Tada, Tamil Nadu",
+    "latitude": 13.441519,
+    "longitude": 79.947229,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Ubbalamadugu Falls Inn near Ubbalamadugu Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8f6ff89d-1c43-4000-9667-1091390479fc",
+    "hotelName": "Resort Yercaud Hills Residency",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.765902,
+    "longitude": 78.200313,
+    "rating": 3.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Yercaud Hills Residency near Yercaud Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e2fd1e76-4cf9-4a79-8091-5bab299ab16d",
+    "hotelName": "Yercaud Hills Heritage Hotel",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.783082,
+    "longitude": 78.20873,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Yercaud Hills Heritage Hotel near Yercaud Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "630ee128-3fe3-40bc-8745-b71f0209edc0",
+    "hotelName": "Suites Yercaud Hills Heights",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.77742,
+    "longitude": 78.212445,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Yercaud Hills Heights near Yercaud Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c5dc2eb1-2ff5-452d-8e1d-0d571fde1c6b",
+    "hotelName": "Inn Yercaud Hills Retreat",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.779681,
+    "longitude": 78.199369,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Yercaud Hills Retreat near Yercaud Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "17a688d3-4401-4e7f-b812-1d164774fb88",
+    "hotelName": "The Kolli Hills Grand",
+    "city": "Namakkal, Tamil Nadu",
+    "latitude": 11.306491,
+    "longitude": 78.324391,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Kolli Hills Grand near Kolli Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1efa6c14-dc05-45f7-a41e-0fb071c51e69",
+    "hotelName": "Resort Kolli Hills Residency",
+    "city": "Namakkal, Tamil Nadu",
+    "latitude": 11.302015,
+    "longitude": 78.329273,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Kolli Hills Residency near Kolli Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "094647ac-4f8c-44db-94cd-11587e9a24ab",
+    "hotelName": "StayEasy Kolli Hills Inn",
+    "city": "Namakkal, Tamil Nadu",
+    "latitude": 11.302707,
+    "longitude": 78.331274,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Kolli Hills Inn near Kolli Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "757be298-bea7-42f3-b72f-f622725b543f",
+    "hotelName": "Lodge Kolli Hills View",
+    "city": "Namakkal, Tamil Nadu",
+    "latitude": 11.295332,
+    "longitude": 78.320386,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Kolli Hills View near Kolli Hills offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "4c260770-ba2d-40fa-ac26-3797a5311a93",
+    "hotelName": "Suites Pichavaram Mangrove Forest Heights",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.437084,
+    "longitude": 79.795754,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Pichavaram Mangrove Forest Heights near Pichavaram Mangrove Forest offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3eb5bac4-e661-4759-843d-e7b4880335a9",
+    "hotelName": "Hotel Pichavaram Mangrove Forest Deluxe",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.430353,
+    "longitude": 79.795206,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Pichavaram Mangrove Forest Deluxe near Pichavaram Mangrove Forest offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d25fd36e-4674-421f-836c-b878b922acba",
+    "hotelName": "StayEasy Pichavaram Mangrove Forest Inn",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.426671,
+    "longitude": 79.792146,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Pichavaram Mangrove Forest Inn near Pichavaram Mangrove Forest offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "221954f7-c3d3-4d25-b1ee-426d2970ea3b",
+    "hotelName": "Pichavaram Mangrove Forest Comfort Stay",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.427784,
+    "longitude": 79.792855,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Pichavaram Mangrove Forest Comfort Stay near Pichavaram Mangrove Forest offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9f4708c1-dc6b-4253-bcb1-49ba72dc157e",
+    "hotelName": "Resort Vivekananda Rock Memorial Residency",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.072916,
+    "longitude": 77.548299,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Vivekananda Rock Memorial Residency near Vivekananda Rock Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f3746dda-624f-48ae-b11b-26f380855426",
+    "hotelName": "Hotel Vivekananda Rock Memorial Deluxe",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.079462,
+    "longitude": 77.555026,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Vivekananda Rock Memorial Deluxe near Vivekananda Rock Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "fe4dd499-2b61-4d50-a49a-99b852d532ed",
+    "hotelName": "Vivekananda Rock Memorial Heritage Hotel",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.067737,
+    "longitude": 77.548413,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Vivekananda Rock Memorial Heritage Hotel near Vivekananda Rock Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a44cd3ca-ebf5-4dfb-8722-cff30e427870",
+    "hotelName": "Inn Vivekananda Rock Memorial Retreat",
+    "city": "Kanyakumari, Tamil Nadu",
+    "latitude": 8.070766,
+    "longitude": 77.55702,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Vivekananda Rock Memorial Retreat near Vivekananda Rock Memorial offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "bbd93c79-95f5-478b-89ed-fbc9a9c0d227",
+    "hotelName": "Villa Mudumalai National Park Palace",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.579015,
+    "longitude": 76.646182,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Mudumalai National Park Palace near Mudumalai National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "fe63537c-20e6-4faf-9443-d58af638a8a6",
+    "hotelName": "Mudumalai National Park Heritage Hotel",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.578337,
+    "longitude": 76.645615,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Mudumalai National Park Heritage Hotel near Mudumalai National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "39f1194b-4574-4034-bcef-781847197124",
+    "hotelName": "Suites Mudumalai National Park Heights",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.57772,
+    "longitude": 76.634582,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Mudumalai National Park Heights near Mudumalai National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "740a2c39-02d8-4bc8-b620-33d059f51e6a",
+    "hotelName": "Mudumalai National Park Comfort Stay",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.569916,
+    "longitude": 76.644718,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Mudumalai National Park Comfort Stay near Mudumalai National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d1ae3f18-f12b-4868-87ab-66b40dff6df0",
+    "hotelName": "Villa Thanjavur Brihadeeswara Temple Palace",
+    "city": "Thanjavur, Tamil Nadu",
+    "latitude": 10.779381,
+    "longitude": 79.1234,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Thanjavur Brihadeeswara Temple Palace near Thanjavur Brihadeeswara Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1b6de6ea-a91f-4cca-af94-b849bc8a4eb0",
+    "hotelName": "StayEasy Thanjavur Brihadeeswara Temple Inn",
+    "city": "Thanjavur, Tamil Nadu",
+    "latitude": 10.784632,
+    "longitude": 79.141857,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Thanjavur Brihadeeswara Temple Inn near Thanjavur Brihadeeswara Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9f36c56c-5f16-4d98-8512-fde9407def2c",
+    "hotelName": "Hotel Thanjavur Brihadeeswara Temple Deluxe",
+    "city": "Thanjavur, Tamil Nadu",
+    "latitude": 10.772483,
+    "longitude": 79.135547,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Thanjavur Brihadeeswara Temple Deluxe near Thanjavur Brihadeeswara Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ce1caa41-5877-438a-94dc-4934453c9dc1",
+    "hotelName": "The Thanjavur Brihadeeswara Temple Grand",
+    "city": "Thanjavur, Tamil Nadu",
+    "latitude": 10.789158,
+    "longitude": 79.127299,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Thanjavur Brihadeeswara Temple Grand near Thanjavur Brihadeeswara Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "90ed2ebb-a624-4124-a51e-4a9f94e3c5eb",
+    "hotelName": "Inn Vedanthangal Bird Sanctuary Retreat",
+    "city": "Chengalpattu, Tamil Nadu",
+    "latitude": 12.532414,
+    "longitude": 79.870172,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Vedanthangal Bird Sanctuary Retreat near Vedanthangal Bird Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "34268acd-5225-4d0b-8c26-03feb20d0e9b",
+    "hotelName": "The Vedanthangal Bird Sanctuary Grand",
+    "city": "Chengalpattu, Tamil Nadu",
+    "latitude": 12.532568,
+    "longitude": 79.862557,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Vedanthangal Bird Sanctuary Grand near Vedanthangal Bird Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "df60f749-ce2d-4a4b-88ae-daae622a59c2",
+    "hotelName": "Lodge Vedanthangal Bird Sanctuary View",
+    "city": "Chengalpattu, Tamil Nadu",
+    "latitude": 12.536047,
+    "longitude": 79.860925,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Vedanthangal Bird Sanctuary View near Vedanthangal Bird Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "343f02fe-c60e-415b-becd-faef8a9b6d31",
+    "hotelName": "Suites Vedanthangal Bird Sanctuary Heights",
+    "city": "Chengalpattu, Tamil Nadu",
+    "latitude": 12.520299,
+    "longitude": 79.858413,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Vedanthangal Bird Sanctuary Heights near Vedanthangal Bird Sanctuary offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c131e007-7082-46ed-8af2-3cf289e51010",
+    "hotelName": "Hotel Lepakshi Temple Deluxe",
+    "city": "Anantapur, Andhra Pradesh",
+    "latitude": 13.79495,
+    "longitude": 77.602837,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Lepakshi Temple Deluxe near Lepakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3ff9cb51-8267-4656-bce9-f24361e77432",
+    "hotelName": "Resort Lepakshi Temple Residency",
+    "city": "Anantapur, Andhra Pradesh",
+    "latitude": 13.798238,
+    "longitude": 77.614557,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Lepakshi Temple Residency near Lepakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "460482b5-3193-49e9-b6a8-421ad36d070a",
+    "hotelName": "Lepakshi Temple Heritage Hotel",
+    "city": "Anantapur, Andhra Pradesh",
+    "latitude": 13.8077,
+    "longitude": 77.616622,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Lepakshi Temple Heritage Hotel near Lepakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "28d47269-1e21-43f5-91a2-bd0d0440c161",
+    "hotelName": "Inn Lepakshi Temple Retreat",
+    "city": "Anantapur, Andhra Pradesh",
+    "latitude": 13.803535,
+    "longitude": 77.600708,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Lepakshi Temple Retreat near Lepakshi Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7a0484c6-20f9-4476-a37f-9e3763ec9805",
+    "hotelName": "Gandikota Fort Comfort Stay",
+    "city": "Kadapa, Andhra Pradesh",
+    "latitude": 14.822384,
+    "longitude": 78.281968,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Gandikota Fort Comfort Stay near Gandikota Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "073a59cd-32fd-4080-8073-5c571cce632a",
+    "hotelName": "Inn Gandikota Fort Retreat",
+    "city": "Kadapa, Andhra Pradesh",
+    "latitude": 14.805628,
+    "longitude": 78.27636,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Gandikota Fort Retreat near Gandikota Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2310a921-8da4-40c0-b780-613462646c09",
+    "hotelName": "Resort Gandikota Fort Residency",
+    "city": "Kadapa, Andhra Pradesh",
+    "latitude": 14.805498,
+    "longitude": 78.285064,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Gandikota Fort Residency near Gandikota Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6aba671a-24d4-422a-a0b1-33bb441a1e1d",
+    "hotelName": "Gandikota Fort Heritage Hotel",
+    "city": "Kadapa, Andhra Pradesh",
+    "latitude": 14.817643,
+    "longitude": 78.280348,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Gandikota Fort Heritage Hotel near Gandikota Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "86234759-b68c-43e6-8fdb-f75b303229a1",
+    "hotelName": "Lodge Talakona Waterfalls View",
+    "city": "Chittoor, Andhra Pradesh",
+    "latitude": 13.829223,
+    "longitude": 79.159036,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Talakona Waterfalls View near Talakona Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a7c792d8-2bf1-4f9b-a2d2-6fb3818fc15a",
+    "hotelName": "Hotel Talakona Waterfalls Deluxe",
+    "city": "Chittoor, Andhra Pradesh",
+    "latitude": 13.824779,
+    "longitude": 79.160233,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Talakona Waterfalls Deluxe near Talakona Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ae3c0186-d0a9-418a-81dc-5208285cce4a",
+    "hotelName": "The Talakona Waterfalls Grand",
+    "city": "Chittoor, Andhra Pradesh",
+    "latitude": 13.830131,
+    "longitude": 79.157354,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "The Talakona Waterfalls Grand near Talakona Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "afaa203d-191e-4f1d-92b0-e1210665e0f2",
+    "hotelName": "Talakona Waterfalls Comfort Stay",
+    "city": "Chittoor, Andhra Pradesh",
+    "latitude": 13.826432,
+    "longitude": 79.150798,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Talakona Waterfalls Comfort Stay near Talakona Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e6387d86-9251-45e7-8366-0ffdb7741151",
+    "hotelName": "Inn Srisailam Dam Retreat",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 16.080336,
+    "longitude": 78.898215,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Srisailam Dam Retreat near Srisailam Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "aad10fd8-33f9-4bde-9398-31d7055079ae",
+    "hotelName": "Hotel Srisailam Dam Deluxe",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 16.088214,
+    "longitude": 78.880512,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Srisailam Dam Deluxe near Srisailam Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "99a93f1f-7cd5-4d12-8718-c1f4354a290d",
+    "hotelName": "The Srisailam Dam Grand",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 16.080127,
+    "longitude": 78.88041,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "The Srisailam Dam Grand near Srisailam Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b8a49cd6-ae22-48a7-b6b8-b19ff3ef134f",
+    "hotelName": "StayEasy Srisailam Dam Inn",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 16.076047,
+    "longitude": 78.894484,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Srisailam Dam Inn near Srisailam Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "75005e70-13dc-470a-9ce9-d0ad34beceac",
+    "hotelName": "Belum Caves Heritage Hotel",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 15.092865,
+    "longitude": 78.107365,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Belum Caves Heritage Hotel near Belum Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e71edce1-b395-4112-aeed-f8080c596340",
+    "hotelName": "Villa Belum Caves Palace",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 15.098288,
+    "longitude": 78.109394,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Belum Caves Palace near Belum Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "06b271cf-37ad-4144-8dea-4032eb0bc512",
+    "hotelName": "Inn Belum Caves Retreat",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 15.088392,
+    "longitude": 78.114302,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Belum Caves Retreat near Belum Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c7fc831d-d363-484d-b421-a49bf3bc50f7",
+    "hotelName": "Lodge Belum Caves View",
+    "city": "Kurnool, Andhra Pradesh",
+    "latitude": 15.085401,
+    "longitude": 78.112496,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Belum Caves View near Belum Caves offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c9701dfa-f10f-4108-82e5-d20c97a7c763",
+    "hotelName": "Villa Pulicat Lake Palace",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.614821,
+    "longitude": 80.197226,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Pulicat Lake Palace near Pulicat Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "deb23c64-71f3-49dc-99ec-34a502082332",
+    "hotelName": "Suites Pulicat Lake Heights",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.609358,
+    "longitude": 80.200064,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Pulicat Lake Heights near Pulicat Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c7d4e206-69fc-49b9-b44f-8372ac457114",
+    "hotelName": "Hotel Pulicat Lake Deluxe",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.623727,
+    "longitude": 80.207633,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Pulicat Lake Deluxe near Pulicat Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "88c5c8f7-4802-42fa-a4cc-4cf9566aee49",
+    "hotelName": "Pulicat Lake Comfort Stay",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.613421,
+    "longitude": 80.20713,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Pulicat Lake Comfort Stay near Pulicat Lake offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f8b6681a-a487-4dba-8c4b-68d677a471cc",
+    "hotelName": "The Nagarjuna Sagar Dam Grand",
+    "city": "Guntur, Andhra Pradesh",
+    "latitude": 16.576687,
+    "longitude": 79.323693,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Nagarjuna Sagar Dam Grand near Nagarjuna Sagar Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "080363ba-0c97-4c14-bee1-dd30663f155b",
+    "hotelName": "Lodge Nagarjuna Sagar Dam View",
+    "city": "Guntur, Andhra Pradesh",
+    "latitude": 16.578329,
+    "longitude": 79.324034,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Nagarjuna Sagar Dam View near Nagarjuna Sagar Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5b072ab2-03af-4a26-ba96-d0cba288402c",
+    "hotelName": "Hotel Nagarjuna Sagar Dam Deluxe",
+    "city": "Guntur, Andhra Pradesh",
+    "latitude": 16.57001,
+    "longitude": 79.32421,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Nagarjuna Sagar Dam Deluxe near Nagarjuna Sagar Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2b18a6f3-22b6-4bb2-947c-29d40f15e4f4",
+    "hotelName": "Nagarjuna Sagar Dam Comfort Stay",
+    "city": "Guntur, Andhra Pradesh",
+    "latitude": 16.579272,
+    "longitude": 79.322877,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Nagarjuna Sagar Dam Comfort Stay near Nagarjuna Sagar Dam offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c1f85138-f54c-40b6-a0d7-53f4f83bd4f0",
+    "hotelName": "The Mypadu Beach Grand",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 14.497468,
+    "longitude": 80.145483,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Mypadu Beach Grand near Mypadu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b1836461-3497-49b5-9e81-ece05172b794",
+    "hotelName": "Mypadu Beach Comfort Stay",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 14.502559,
+    "longitude": 80.139997,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Mypadu Beach Comfort Stay near Mypadu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f948f5a9-c900-4533-bb0b-b253d369916a",
+    "hotelName": "Villa Mypadu Beach Palace",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 14.503842,
+    "longitude": 80.140162,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Mypadu Beach Palace near Mypadu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "3723cc66-3ec2-4b7d-8ec3-7faed37185b8",
+    "hotelName": "Mypadu Beach Heritage Hotel",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 14.498676,
+    "longitude": 80.139383,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Mypadu Beach Heritage Hotel near Mypadu Beach offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "6ce3273f-dc53-47cb-975c-494746c3759c",
+    "hotelName": "The Venkatagiri Fort Grand",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.960797,
+    "longitude": 79.577513,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "The Venkatagiri Fort Grand near Venkatagiri Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d1b68739-963d-412d-8b2a-c2f1623d1182",
+    "hotelName": "Resort Venkatagiri Fort Residency",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.969308,
+    "longitude": 79.589443,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Venkatagiri Fort Residency near Venkatagiri Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c7dab282-eb31-487a-9c5a-f3c5b816d7bd",
+    "hotelName": "Hotel Venkatagiri Fort Deluxe",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.959537,
+    "longitude": 79.589189,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Venkatagiri Fort Deluxe near Venkatagiri Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b531a9e9-0959-4951-ba8a-f2e02c029bfe",
+    "hotelName": "Suites Venkatagiri Fort Heights",
+    "city": "Nellore, Andhra Pradesh",
+    "latitude": 13.966318,
+    "longitude": 79.590939,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Venkatagiri Fort Heights near Venkatagiri Fort offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c799143f-9815-4154-bcb9-d6a12dce2a2e",
+    "hotelName": "Lodge Kanaka Durga Temple View",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.517931,
+    "longitude": 80.614052,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Kanaka Durga Temple View near Kanaka Durga Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7622eb81-0378-40e4-b5ea-0f2185d7c82c",
+    "hotelName": "The Kanaka Durga Temple Grand",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.508115,
+    "longitude": 80.622693,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "The Kanaka Durga Temple Grand near Kanaka Durga Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b65449e5-0e62-4d3a-ad77-199e7accfd50",
+    "hotelName": "Hotel Kanaka Durga Temple Deluxe",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.516345,
+    "longitude": 80.614089,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Kanaka Durga Temple Deluxe near Kanaka Durga Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "de43e4e7-38b2-4656-ba0f-3cddc4d75898",
+    "hotelName": "Resort Kanaka Durga Temple Residency",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.524596,
+    "longitude": 80.610934,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Kanaka Durga Temple Residency near Kanaka Durga Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b2b7969c-af08-4bfc-979a-ba327a668af9",
+    "hotelName": "Hotel Bhavani Island Deluxe",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.500424,
+    "longitude": 80.614287,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Bhavani Island Deluxe near Bhavani Island offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "0b5c5611-1f89-470c-b5c2-b0707b535239",
+    "hotelName": "Inn Bhavani Island Retreat",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.502268,
+    "longitude": 80.621289,
+    "rating": 3.5,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Bhavani Island Retreat near Bhavani Island offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a508093b-7bd0-4d41-98ae-91df4e7991c5",
+    "hotelName": "Villa Bhavani Island Palace",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.50052,
+    "longitude": 80.61405,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Bhavani Island Palace near Bhavani Island offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7be6278d-d512-4569-8f60-42e49f3b0769",
+    "hotelName": "Resort Bhavani Island Residency",
+    "city": "Vijayawada, Andhra Pradesh",
+    "latitude": 16.506364,
+    "longitude": 80.62981,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Bhavani Island Residency near Bhavani Island offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "dda00227-f9ca-492e-8a2e-8956410bed1e",
+    "hotelName": "Resort Rajahmundry Godavari Bridge Residency",
+    "city": "Rajahmundry, Andhra Pradesh",
+    "latitude": 17.01347,
+    "longitude": 81.781902,
+    "rating": 5.0,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Rajahmundry Godavari Bridge Residency near Rajahmundry Godavari Bridge offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c8a77846-ee2c-4b1b-9c7d-1ac975fa41b2",
+    "hotelName": "Suites Rajahmundry Godavari Bridge Heights",
+    "city": "Rajahmundry, Andhra Pradesh",
+    "latitude": 17.008389,
+    "longitude": 81.777728,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Rajahmundry Godavari Bridge Heights near Rajahmundry Godavari Bridge offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "44a115d0-6a57-46e9-8554-9c501ba74417",
+    "hotelName": "StayEasy Rajahmundry Godavari Bridge Inn",
+    "city": "Rajahmundry, Andhra Pradesh",
+    "latitude": 17.007221,
+    "longitude": 81.775719,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Rajahmundry Godavari Bridge Inn near Rajahmundry Godavari Bridge offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "78258555-fd40-4bc5-aa79-7c89afccabbe",
+    "hotelName": "The Rajahmundry Godavari Bridge Grand",
+    "city": "Rajahmundry, Andhra Pradesh",
+    "latitude": 16.998653,
+    "longitude": 81.778,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Rajahmundry Godavari Bridge Grand near Rajahmundry Godavari Bridge offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "94e50e9a-9c60-48cd-903a-5f0e9f135edc",
+    "hotelName": "StayEasy Kumbakonam Temples Inn",
+    "city": "Kumbakonam, Tamil Nadu",
+    "latitude": 10.96231,
+    "longitude": 79.38437,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Kumbakonam Temples Inn near Kumbakonam Temples offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9144cdb1-ee12-42bf-851f-aae1ed836378",
+    "hotelName": "Kumbakonam Temples Heritage Hotel",
+    "city": "Kumbakonam, Tamil Nadu",
+    "latitude": 10.966951,
+    "longitude": 79.39541,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Kumbakonam Temples Heritage Hotel near Kumbakonam Temples offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "59589f6d-98da-477f-9c95-8d80185edae6",
+    "hotelName": "Villa Kumbakonam Temples Palace",
+    "city": "Kumbakonam, Tamil Nadu",
+    "latitude": 10.954672,
+    "longitude": 79.394829,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Kumbakonam Temples Palace near Kumbakonam Temples offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a9de14a9-1425-464c-b7dc-24fe823e0200",
+    "hotelName": "Hotel Kumbakonam Temples Deluxe",
+    "city": "Kumbakonam, Tamil Nadu",
+    "latitude": 10.954599,
+    "longitude": 79.381033,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Kumbakonam Temples Deluxe near Kumbakonam Temples offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "014501ad-65a0-4453-8bb8-2011810f295a",
+    "hotelName": "StayEasy Chidambaram Nataraja Temple Inn",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.402051,
+    "longitude": 79.684254,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Chidambaram Nataraja Temple Inn near Chidambaram Nataraja Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "ffbdd3ee-30c7-4046-91fe-c7393ed32895",
+    "hotelName": "Lodge Chidambaram Nataraja Temple View",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.39188,
+    "longitude": 79.700412,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Chidambaram Nataraja Temple View near Chidambaram Nataraja Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f3c5b199-ae5a-4ce9-8e4a-4b6db6aa482c",
+    "hotelName": "The Chidambaram Nataraja Temple Grand",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.405295,
+    "longitude": 79.686669,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "The Chidambaram Nataraja Temple Grand near Chidambaram Nataraja Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d5e8b62b-7621-4920-a606-e678f4c72f2c",
+    "hotelName": "Suites Chidambaram Nataraja Temple Heights",
+    "city": "Chidambaram, Tamil Nadu",
+    "latitude": 11.398284,
+    "longitude": 79.689352,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Chidambaram Nataraja Temple Heights near Chidambaram Nataraja Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "c4ebd12c-c27b-46b4-b52c-0f7717b502b4",
+    "hotelName": "Agasthiyar Falls Comfort Stay",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.662343,
+    "longitude": 77.469179,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Agasthiyar Falls Comfort Stay near Agasthiyar Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "130651bf-7f9f-4614-a1c6-10cd97f14de7",
+    "hotelName": "Hotel Agasthiyar Falls Deluxe",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.671934,
+    "longitude": 77.461431,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Agasthiyar Falls Deluxe near Agasthiyar Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "be7f66e9-afc9-4cf3-8899-305afa0bd586",
+    "hotelName": "Lodge Agasthiyar Falls View",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.672853,
+    "longitude": 77.462968,
+    "rating": 3.9,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Agasthiyar Falls View near Agasthiyar Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "61caa8ef-eefd-4ca9-9a3c-e5563dbd844f",
+    "hotelName": "The Agasthiyar Falls Grand",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.665077,
+    "longitude": 77.471568,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Agasthiyar Falls Grand near Agasthiyar Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8c223d28-cc15-4f42-922e-90faf0c6252f",
+    "hotelName": "Villa Srivilliputhur Andal Temple Palace",
+    "city": "Srivilliputhur, Tamil Nadu",
+    "latitude": 9.507741,
+    "longitude": 77.633531,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Srivilliputhur Andal Temple Palace near Srivilliputhur Andal Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "31f63f26-fd7d-40fe-a682-d61ef865bfde",
+    "hotelName": "StayEasy Srivilliputhur Andal Temple Inn",
+    "city": "Srivilliputhur, Tamil Nadu",
+    "latitude": 9.506369,
+    "longitude": 77.634339,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Srivilliputhur Andal Temple Inn near Srivilliputhur Andal Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "826542cf-7114-40b2-a057-ace99e998254",
+    "hotelName": "Suites Srivilliputhur Andal Temple Heights",
+    "city": "Srivilliputhur, Tamil Nadu",
+    "latitude": 9.515926,
+    "longitude": 77.632399,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Srivilliputhur Andal Temple Heights near Srivilliputhur Andal Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f50e74a9-61c0-4dcf-9652-15f90d718d2b",
+    "hotelName": "Inn Srivilliputhur Andal Temple Retreat",
+    "city": "Srivilliputhur, Tamil Nadu",
+    "latitude": 9.521279,
+    "longitude": 77.627415,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Srivilliputhur Andal Temple Retreat near Srivilliputhur Andal Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1f341b6f-f922-4f73-afda-ff8088298f91",
+    "hotelName": "Lodge Coakers Walk View",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.240595,
+    "longitude": 77.483347,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Coakers Walk View near Coakers Walk offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "637bb460-699c-4cb8-83b9-d9ee7f40657e",
+    "hotelName": "StayEasy Coakers Walk Inn",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.240197,
+    "longitude": 77.481366,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Coakers Walk Inn near Coakers Walk offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "83edbc48-9ec3-4f48-9b48-b476d5240aa3",
+    "hotelName": "The Coakers Walk Grand",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.231236,
+    "longitude": 77.493732,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "The Coakers Walk Grand near Coakers Walk offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "fe39aaae-8416-43f3-9f11-932144f37198",
+    "hotelName": "Hotel Coakers Walk Deluxe",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.222843,
+    "longitude": 77.491716,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Coakers Walk Deluxe near Coakers Walk offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "973586a4-d0e8-4a35-ab87-cac404d55d71",
+    "hotelName": "Manimuthar Waterfalls Heritage Hotel",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.641313,
+    "longitude": 77.391071,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Manimuthar Waterfalls Heritage Hotel near Manimuthar Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b210b81e-3427-4bab-a463-d5d874610f3c",
+    "hotelName": "Hotel Manimuthar Waterfalls Deluxe",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.634468,
+    "longitude": 77.38373,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Manimuthar Waterfalls Deluxe near Manimuthar Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f0ca2449-4966-4e5d-920f-2f8adfddca3b",
+    "hotelName": "StayEasy Manimuthar Waterfalls Inn",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.635521,
+    "longitude": 77.383024,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Manimuthar Waterfalls Inn near Manimuthar Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "46cd6f09-0eec-4389-acf4-3d516e206517",
+    "hotelName": "Suites Manimuthar Waterfalls Heights",
+    "city": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.638967,
+    "longitude": 77.388559,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Manimuthar Waterfalls Heights near Manimuthar Waterfalls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5cfbfcd0-cceb-4260-91ab-205919b25d56",
+    "hotelName": "Mukurthi National Park Heritage Hotel",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.339538,
+    "longitude": 76.461126,
+    "rating": 4.2,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Mukurthi National Park Heritage Hotel near Mukurthi National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5270184a-be6d-41e9-be65-520e1073aa33",
+    "hotelName": "StayEasy Mukurthi National Park Inn",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.337413,
+    "longitude": 76.450985,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Mukurthi National Park Inn near Mukurthi National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "8b96152f-729f-45fa-ab04-439668edec6e",
+    "hotelName": "Villa Mukurthi National Park Palace",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.346144,
+    "longitude": 76.460202,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Mukurthi National Park Palace near Mukurthi National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "001bc765-3f8d-4b58-991c-38196fe5f6dc",
+    "hotelName": "The Mukurthi National Park Grand",
+    "city": "Nilgiris, Tamil Nadu",
+    "latitude": 11.347108,
+    "longitude": 76.465386,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Mukurthi National Park Grand near Mukurthi National Park offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "cfc9ed35-b338-41b1-bf85-eed1f851f406",
+    "hotelName": "Silent Valley View Comfort Stay",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.223686,
+    "longitude": 77.474037,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Silent Valley View Comfort Stay near Silent Valley View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "887e3c79-6f17-4b6e-9b60-36f94f6b00ef",
+    "hotelName": "Silent Valley View Heritage Hotel",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.226845,
+    "longitude": 77.462439,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Silent Valley View Heritage Hotel near Silent Valley View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "a5642d28-f3d6-4f98-ab68-7bdbc5337d71",
+    "hotelName": "Resort Silent Valley View Residency",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.231568,
+    "longitude": 77.478701,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Silent Valley View Residency near Silent Valley View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2134ebca-ff4e-4054-9c13-1a7b1ac8d936",
+    "hotelName": "Lodge Silent Valley View View",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.223712,
+    "longitude": 77.468662,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Silent Valley View View near Silent Valley View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d906baac-6c20-4a69-a7b7-40e457dd8901",
+    "hotelName": "StayEasy Thiruparankundram Murugan Temple Inn",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.889502,
+    "longitude": 78.065938,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "StayEasy Thiruparankundram Murugan Temple Inn near Thiruparankundram Murugan Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "9eb9b476-30ce-412a-8e95-d78da84b25ec",
+    "hotelName": "Lodge Thiruparankundram Murugan Temple View",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.881227,
+    "longitude": 78.067735,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Thiruparankundram Murugan Temple View near Thiruparankundram Murugan Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "d4640011-22a6-4f04-a3a5-2396894cbdf2",
+    "hotelName": "The Thiruparankundram Murugan Temple Grand",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.891162,
+    "longitude": 78.074524,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "The Thiruparankundram Murugan Temple Grand near Thiruparankundram Murugan Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "294db4b3-081b-448e-9d77-70e1f295ecbd",
+    "hotelName": "Resort Thiruparankundram Murugan Temple Residency",
+    "city": "Madurai, Tamil Nadu",
+    "latitude": 9.881882,
+    "longitude": 78.067085,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Thiruparankundram Murugan Temple Residency near Thiruparankundram Murugan Temple offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "b5847331-fc50-41c3-84f2-22d1de25fe69",
+    "hotelName": "Hotel Kiliyur Falls Deluxe",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.779341,
+    "longitude": 78.223356,
+    "rating": 4.3,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Kiliyur Falls Deluxe near Kiliyur Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "dc005fe8-3b0d-401b-9615-c995fe41f98f",
+    "hotelName": "Villa Kiliyur Falls Palace",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.780861,
+    "longitude": 78.227341,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Kiliyur Falls Palace near Kiliyur Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "1098948d-94e2-4119-a3d4-6c72c22dce94",
+    "hotelName": "Resort Kiliyur Falls Residency",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.775995,
+    "longitude": 78.212856,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Kiliyur Falls Residency near Kiliyur Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "5ef49bad-a84c-4656-8fa2-2c598abb1065",
+    "hotelName": "Lodge Kiliyur Falls View",
+    "city": "Yercaud, Tamil Nadu",
+    "latitude": 11.769784,
+    "longitude": 78.210116,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Kiliyur Falls View near Kiliyur Falls offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "2980d285-0a32-4a2b-b77e-22e054777128",
+    "hotelName": "Villa Poombarai Village View Palace",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.267694,
+    "longitude": 77.493683,
+    "rating": 4.0,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Poombarai Village View Palace near Poombarai Village View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "154e01d5-18fe-4586-8656-f27cc67f599e",
+    "hotelName": "Suites Poombarai Village View Heights",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.27736,
+    "longitude": 77.480874,
+    "rating": 3.6,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Suites Poombarai Village View Heights near Poombarai Village View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "adf9a3c3-b5af-429c-9311-f5ebbae7835b",
+    "hotelName": "Inn Poombarai Village View Retreat",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.271474,
+    "longitude": 77.490309,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Poombarai Village View Retreat near Poombarai Village View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "63bb5f25-d5c1-4003-847f-726f7e3584c7",
+    "hotelName": "Resort Poombarai Village View Residency",
+    "city": "Kodaikanal, Tamil Nadu",
+    "latitude": 10.270482,
+    "longitude": 77.482819,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Poombarai Village View Residency near Poombarai Village View offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "665e3c8c-72da-473b-8db7-8e52a88021c5",
+    "hotelName": "Resort Nagore Dargah Residency",
+    "city": "Nagapattinam, Tamil Nadu",
+    "latitude": 10.776723,
+    "longitude": 79.840154,
+    "rating": 3.8,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "Resort Nagore Dargah Residency near Nagore Dargah offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "e86b10ef-3807-4214-9325-4632f31e3b72",
+    "hotelName": "Lodge Nagore Dargah View",
+    "city": "Nagapattinam, Tamil Nadu",
+    "latitude": 10.764149,
+    "longitude": 79.841135,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Nagore Dargah View near Nagore Dargah offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "7fb0f227-742a-47bf-83fe-7f9182e6939f",
+    "hotelName": "The Nagore Dargah Grand",
+    "city": "Nagapattinam, Tamil Nadu",
+    "latitude": 10.758535,
+    "longitude": 79.854923,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1576675782826-f74f3db0bb88?auto=format&fit=crop&w=800&q=80",
+    "description": "The Nagore Dargah Grand near Nagore Dargah offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "f6797b6f-570a-4dbb-b32a-2bf4881ed5ea",
+    "hotelName": "Villa Nagore Dargah Palace",
+    "city": "Nagapattinam, Tamil Nadu",
+    "latitude": 10.765202,
+    "longitude": 79.845859,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d3?auto=format&fit=crop&w=800&q=80",
+    "description": "Villa Nagore Dargah Palace near Nagore Dargah offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "99d5cc9a-5aef-4574-bb86-014f1107c294",
+    "hotelName": "Hotel Santhome Basilica Deluxe",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.039505,
+    "longitude": 80.264934,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Hotel Santhome Basilica Deluxe near Santhome Basilica offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "dbc99b99-933d-41fe-a9ab-657dd7cb46e4",
+    "hotelName": "Inn Santhome Basilica Retreat",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.022723,
+    "longitude": 80.282993,
+    "rating": 3.7,
+    "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80",
+    "description": "Inn Santhome Basilica Retreat near Santhome Basilica offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "955f499f-3428-4261-9de8-39f61fec1214",
+    "hotelName": "Santhome Basilica Comfort Stay",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.035062,
+    "longitude": 80.269449,
+    "rating": 4.4,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Santhome Basilica Comfort Stay near Santhome Basilica offers comfort and convenience with modern amenities."
+  },
+  {
+    "id": "493a70a1-10aa-4176-898b-400e5913c0f2",
+    "hotelName": "Lodge Santhome Basilica View",
+    "city": "Chennai, Tamil Nadu",
+    "latitude": 13.030741,
+    "longitude": 80.28284,
+    "rating": 4.1,
+    "imageURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+    "description": "Lodge Santhome Basilica View near Santhome Basilica offers comfort and convenience with modern amenities."
+  }
+]

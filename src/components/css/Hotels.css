@@ -1,0 +1,82 @@
+.hotels-page {
+  background: url('../../assets/hotels-bg.jpg') center/cover no-repeat;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.controls input,
+.controls select {
+  flex: 1;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.controls button {
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.carousel {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav {
+  background: none;
+  border: none;
+  font-size: 3rem;
+  color: #333;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.card {
+  text-align: center;
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.card.large {
+  width: 600px;
+  margin: 0 2rem;
+  padding: 1.5rem;
+}
+
+.card.small {
+  width: 300px;
+  margin: 0 1rem;
+  padding: 1rem;
+  opacity: 0.7;
+}
+
+.card img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-bottom: 1px solid #eee;
+}
+
+.no-results {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  color: #666;
+}

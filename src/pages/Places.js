@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import "../components/css/Places.css";
 import bgImage from "../assets/places-bg.jpg";
 
@@ -10,10 +11,12 @@ const Places = () => {
   const [userLongitude, setUserLongitude] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const placesPerPage = 8;
+  const navigate = useNavigate();
 
   useEffect(() => {
     const fetchPlacesData = async () => {
       try {
+        // Make sure places.json is in 'public/data/places.json'
         const response = await fetch("/data/places.json");
         const data = await response.json();
         setAllPlacesData(data);
@@ -39,9 +42,12 @@ const Places = () => {
     return R * c;
   };
 
-  const handleSearch = (e) => {
-    const query = e.target.value.toLowerCase().trim();
-    setSearchQuery(query);
+  const handleSearchInputChange = (e) => {
+    setSearchQuery(e.target.value);
+  };
+
+  const handleSearch = () => {
+    const query = searchQuery.toLowerCase().trim();
     const filtered = allPlacesData.filter(
       (place) =>
         place.city.toLowerCase().includes(query) ||
@@ -76,6 +82,14 @@ const Places = () => {
     }
   };
 
+  const handleCardClick = (place) => {
+    navigate(`/place/${encodeURIComponent(place.placeName)}`, {
+      state: {
+        placeData: place,
+      },
+    });
+  };
+
   const start = (currentPage - 1) * placesPerPage;
   const end = start + placesPerPage;
   const paginatedPlaces = filteredPlacesData.slice(start, end);
@@ -89,57 +103,70 @@ const Places = () => {
       }}
     >
       <div className="places-overlay">
-        <div className="search-bar">
-          <input
-            type="text"
-            value={searchQuery}
-            onChange={handleSearch}
-            placeholder="Search city or place"
-          />
-          <button onClick={handleSearch}>Search</button>
-          <button onClick={handleUseLocation}>Use Current Location</button>
-        </div>
+        <div className="places-container">
+          <h1>Explore Beautiful Places</h1>
 
-        <div className="places-grid">
-          {paginatedPlaces.map((place, index) => (
-            <div className="place-card" key={index}>
-              <img src={place.imageURL} alt={place.placeName} />
-              <h3>{place.placeName}</h3>
-              <p>{place.city}</p>
-              {userLatitude && userLongitude && (
-                <p>
-                  {getDistance(
-                    userLatitude,
-                    userLongitude,
-                    place.latitude,
-                    place.longitude
-                  ).toFixed(2)}{" "}
-                  km
-                </p>
-              )}
-              <p>⭐ {place.rating}</p>
-            </div>
-          ))}
-        </div>
+          <div className="controls">
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={handleSearchInputChange}
+              placeholder="Search city or place"
+              onKeyDown={(e) => {
+                if (e.key === "Enter") {
+                  handleSearch();
+                }
+              }}
+            />
+            <button onClick={handleSearch}>Search</button>
+            <button onClick={handleUseLocation}>Use Current Location</button>
+          </div>
 
-        <div className="pagination">
-          <button
-            onClick={() => currentPage > 1 && setCurrentPage(currentPage - 1)}
-            disabled={currentPage === 1}
-          >
-            Prev
-          </button>
-          <span style={{ margin: "0 15px" }}>
-            Page {currentPage} of {totalPages}
-          </span>
-          <button
-            onClick={() =>
-              currentPage < totalPages && setCurrentPage(currentPage + 1)
-            }
-            disabled={currentPage === totalPages}
-          >
-            Next
-          </button>
+          <div className="places-grid">
+            {paginatedPlaces.map((place) => (
+              <div
+                className="place-card"
+                key={place.placeName}
+                onClick={() => handleCardClick(place)}
+              >
+                <img src={place.imageURL} alt={place.placeName} />
+                <h3>{place.placeName}</h3>
+                <p>{place.city}</p>
+                {userLatitude !== null && userLongitude !== null && (
+                  <p>
+                    {getDistance(
+                      userLatitude,
+                      userLongitude,
+                      place.latitude,
+                      place.longitude
+                    ).toFixed(2)}{" "}
+                    km
+                  </p>
+                )}
+                <p>⭐ {place.rating}</p>
+              </div>
+            ))}
+          </div>
+
+          <div className="pagination">
+            <button
+              onClick={() => currentPage > 1 && setCurrentPage(currentPage - 1)}
+              disabled={currentPage === 1}
+            >
+              Prev
+            </button>
+            <span>
+              Page {currentPage} of {totalPages}
+            </span>
+            <button
+              onClick={() =>
+                currentPage < totalPages && setCurrentPage(currentPage + 1)
+              }
+              disabled={currentPage === totalPages}
+            >
+              Next
+            </button>
+          </div>
         </div>
       </div>
     </div>

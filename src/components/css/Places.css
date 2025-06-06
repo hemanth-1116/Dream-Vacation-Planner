@@ -5,31 +5,35 @@ html, body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body {
-
+.places-background {
   background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.places-overlay {
+  background-color: rgba(255, 255, 255, 0.85);
+  min-height: 100vh;
+  padding: 40px 20px;
   display: flex;
   justify-content: center;
-  align-items: start;
-  min-height: 100vh;
-  overflow-x: hidden;
 }
 
 .places-container {
   max-width: 1300px;
-  width: 90%;
-  margin: 60px auto;
-  padding: 30px;
-  background-color: rgba(255, 255, 255, 0.95);
+  width: 100%;
+  background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.1));
+  backdrop-filter: blur(0px);
   border-radius: 20px;
+  padding: 20px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-  animation: fadeIn 0.6s ease-in-out;
+  animation: fadeIn 1.5s ease-in-out;
 }
 
 @keyframes fadeIn {
   from {
     opacity: 0;
-    transform: translateY(30px);
+    transform: translateY(60px);
   }
   to {
     opacity: 1;
@@ -47,14 +51,15 @@ body {
 .controls {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 12px;
-  margin-bottom: 30px;
   flex-wrap: wrap;
+  margin-bottom: 30px;
 }
 
 .controls input {
   padding: 12px 14px;
-  width: 230px;
+  width: 240px;
   border-radius: 8px;
   border: 1px solid #bbb;
   font-size: 16px;
@@ -79,7 +84,7 @@ body {
 
 .controls button:hover {
   background-color: #0056b3;
-  transform: scale(1.03);
+  transform: scale(1.05);
 }
 
 .places-grid {
@@ -89,20 +94,21 @@ body {
 }
 
 .place-card {
-  background: #fff;
+  background: black;
   border-radius: 15px;
   padding: 16px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
   text-align: center;
   cursor: pointer;
   overflow: hidden;
+  animation: fadeIn 2s ease-out;
 }
 
 .place-card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-  z-index: 2;
+  transform: scale(1.08);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+  z-index: 10;
 }
 
 .place-card img {
@@ -111,22 +117,22 @@ body {
   object-fit: cover;
   border-radius: 12px;
   margin-bottom: 12px;
-  transition: transform 0.3s ease;
+  transition: transform 0.4s ease;
 }
 
 .place-card:hover img {
-  transform: scale(1.03);
+  transform: scale(1.05);
 }
 
 .place-card h3 {
   font-size: 1.3rem;
-  color: #333;
+  color: white;
   margin: 5px 0;
 }
 
 .place-card p {
   font-size: 0.95rem;
-  color: #555;
+  color: white;
   margin: 4px 0;
 }
 
@@ -152,7 +158,13 @@ body {
   transform: scale(1.05);
 }
 
-.pagination button.active {
-  background-color: #007bff;
-  color: white;
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination span {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0 10px;
 }
