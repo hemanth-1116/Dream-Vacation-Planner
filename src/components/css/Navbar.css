@@ -42,7 +42,7 @@
 .navbar-center {
   display: flex;
   align-items: center;
-  margin-left: -200px;
+  margin-left: -5px;
   height: 80px;
   padding-top: 0.5rem;
 }
